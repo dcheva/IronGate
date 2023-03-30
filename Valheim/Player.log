@@ -667,3 +667,36 @@ saving finished
 03/31/2023 00:18:50: Considering autobackup. World time: 1392,7, short time: 7200, long time: 43200, backup count: 10
 03/31/2023 00:18:50: No autobackup needed yet...
 03/31/2023 00:18:55: Skipping unloading unused assets
+03/31/2023 00:19:26: Found selected Exit
+03/31/2023 00:19:37: Loading dungeon
+03/31/2023 00:19:37: Dungeon loaded 29
+03/31/2023 00:19:37: Dungeon load time 16,4542 ms
+03/31/2023 00:19:42: Starting music evening
+03/31/2023 00:19:43: Stopped music meadows at 7739365
+03/31/2023 00:19:51: Player 3343654 wants to open Player_tombstone(Clone)   im: 3343654
+03/31/2023 00:19:51: Setting selected recipe 3
+03/31/2023 00:19:51: UI Group status changed root = True
+03/31/2023 00:19:51: UI Group status changed Player = True
+03/31/2023 00:19:52: Added to stack18 0
+03/31/2023 00:19:52: Added to stack25 0
+03/31/2023 00:20:16: Loading dungeon
+03/31/2023 00:20:16: Dungeon loaded 28
+03/31/2023 00:20:16: Dungeon load time 13,4727 ms
+03/31/2023 00:20:18: Update PlayFab entity token
+03/31/2023 00:21:18: Setting selected recipe 3
+03/31/2023 00:21:18: UI Group status changed root = True
+03/31/2023 00:21:18: UI Group status changed Player = True
+03/31/2023 00:21:25: Spawned Deer x 1
+03/31/2023 00:21:25: Spawned Boar x 1
+03/31/2023 00:22:27: Disabling PlayerBase  character_trigger
+03/31/2023 00:22:30: Disabling collider_block  blocker
+03/31/2023 00:22:36: Placed piece_cookingstation
+03/31/2023 00:22:36: Disabling collider_block  blocker
+03/31/2023 00:22:51: Setting selected recipe 3
+03/31/2023 00:22:51: UI Group status changed root = True
+03/31/2023 00:22:51: UI Group status changed Player = True
+03/31/2023 00:23:20: Disabling collider_block  blocker
+03/31/2023 00:23:33: Placed wood_stair
+03/31/2023 00:23:37: Placed wood_stair
+03/31/2023 00:23:45: Placed wood_wall_half
+03/31/2023 00:24:21: Placed wood_floor
