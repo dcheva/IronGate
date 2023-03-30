@@ -1,0 +1,1980 @@
+Mono path[0] = 'C:/Games/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Games/Valheim/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.41f1 (7c19dc9acfda)
+[Subsystems] Discovering subsystems at path C:/Games/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   31.0.15.3141
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.060 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.579000 ms
+03/30/2023 21:47:10: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 8.139300 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+03/30/2023 21:47:12: Using steam_appid.txt
+03/30/2023 21:47:12: Using steam APPID:892970
+03/30/2023 21:47:12: Authentication:k_ESteamNetworkingAvailability_Current
+03/30/2023 21:47:12: Steam initialized, persona:Igruha
+03/30/2023 21:47:12: PlayFab custom ID set to "Steam_76561198987971986"
+03/30/2023 21:47:12: Using default prefs
+03/30/2023 21:47:12: Valheim version:0.214.300
+03/30/2023 21:47:12: Worldgenerator version setup:2
+03/30/2023 21:47:12: Render threading mode:MultiThreaded
+03/30/2023 21:47:12: Missing audio clip in music respawn
+03/30/2023 21:47:12: Checking for installed DLCs
+03/30/2023 21:47:12: DLC:beta installed:False
+03/30/2023 21:47:12: Builder started
+03/30/2023 21:47:13: Loaded localization file #0 - 'localization' language: 'English'
+03/30/2023 21:47:13: Loaded localization file #1 - 'localization_extra' language: 'English'
+03/30/2023 21:47:13: Sending PlayFab login request (attempt 1)
+03/30/2023 21:47:13: Ticket is System.Byte[] of length 360
+03/30/2023 21:47:13: Session auth respons callback
+03/30/2023 21:47:13: Starting music menu
+03/30/2023 21:47:13: UI Group status changed Menu = True
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 140340.
+Total: 98.365500 ms (FindLiveObjects: 7.170900 ms CreateObjectMapping: 16.923000 ms MarkObjects: 74.080200 ms  DeleteObjects: 0.191100 ms)
+
+03/30/2023 21:47:14: PlayFab logged in as "Steam_76561198987971986"
+03/30/2023 21:47:14: PlayFab local entity ID is E578E9ED3D4F41C4
+03/30/2023 21:47:15: UI Group status changed Menu = True
+03/30/2023 21:47:18: Found selected Settings
+03/30/2023 21:47:18: Current res 1920x1080     1366x768
+03/30/2023 21:47:20: Current res 1920x1080     1366x768
+03/30/2023 21:47:20: UI Group status changed Menu = True
+03/30/2023 21:47:25: Found selected Settings
+03/30/2023 21:47:25: Current res 1920x1080     1366x768
+03/30/2023 21:47:44: Loaded localization file #0 - 'localization' language: 'English'
+03/30/2023 21:47:44: Loaded localization file #1 - 'localization_extra' language: 'English'
+03/30/2023 21:47:44: UI Group status changed Menu = True
+03/30/2023 21:47:46: Found selected Settings
+03/30/2023 21:47:46: Current res 1920x1080     1920x1080
+03/30/2023 21:48:09: Loaded localization file #0 - 'localization' language: 'Russian'
+03/30/2023 21:48:09: Loaded localization file #1 - 'localization_extra' language: 'Russian'
+03/30/2023 21:48:09: UI Group status changed Menu = True
+03/30/2023 21:48:11: Found selected Settings
+03/30/2023 21:48:11: Current res 1920x1080     1920x1080
+03/30/2023 21:48:22: UI Group status changed Controls = True
+03/30/2023 21:48:24: UI Group status changed Menu = True
+03/30/2023 21:48:28: Found selected Start game
+03/30/2023 21:48:28: show character selection
+03/30/2023 21:48:38: Cloud Save: 335 bytes. /characters/dee.fch.new
+03/30/2023 21:48:38: Steam writing file chunks 1 / 1, (335 bytes)
+03/30/2023 21:48:38: Steam Cloud Move: 335 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/30/2023 21:48:38: Steam writing file chunks 1 / 1, (335 bytes)
+03/30/2023 21:48:38: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
+03/30/2023 21:48:38: Creating first autobackup
+03/30/2023 21:48:38: Saving backup at: \characters\dee_backup_auto-20230330214838.fch
+03/30/2023 21:48:38: Cloud Copy: 335 bytes. /characters/dee.fch -> \characters\dee_backup_auto-20230330214838.fch
+03/30/2023 21:48:38: Steam writing file chunks 1 / 1, (335 bytes)
+03/30/2023 21:48:38: Found selected Done
+03/30/2023 21:48:38: UI Group status changed SelectCharacter = True
+03/30/2023 21:49:16: show character selection
+03/30/2023 21:49:16: UI Group status changed SelectCharacter = True
+03/30/2023 21:49:24: OnCharacterStart
+03/30/2023 21:49:24: UI Group status changed Panel = False
+03/30/2023 21:49:38: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 21:49:38: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 21:49:38: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 21:49:38: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 21:49:38: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
+03/30/2023 21:49:38: Creating first autobackup
+03/30/2023 21:49:38: Saving backup at: \worlds\Covan_backup_auto-20230330214938.fwl
+03/30/2023 21:49:38: Cloud Copy: 39 bytes. /worlds/Covan.fwl -> \worlds\Covan_backup_auto-20230330214938.fwl
+03/30/2023 21:49:38: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 21:49:38: Found selected Done
+03/30/2023 21:49:38: UI Group status changed Panel = True
+03/30/2023 21:49:48: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 8.379600 ms
+03/30/2023 21:49:48: Steam initialized, persona:Igruha
+03/30/2023 21:49:48: PlayFab custom ID set to "Steam_76561198987971986"
+03/30/2023 21:49:48: Using default prefs
+03/30/2023 21:49:48: Loading player profile dee
+03/30/2023 21:49:48: isModded: False
+03/30/2023 21:49:48: Zonesystem Awake 11010
+03/30/2023 21:49:48: DungeonDB Awake 11010
+03/30/2023 21:49:48: Steam initialized, persona:Igruha
+03/30/2023 21:49:48: Worldgenerator version setup:2
+03/30/2023 21:49:50: Audioman already exist, destroying self
+03/30/2023 21:49:50: Checking for installed DLCs
+03/30/2023 21:49:50: DLC:beta installed:False
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 143987.
+Total: 107.762300 ms (FindLiveObjects: 6.591200 ms CreateObjectMapping: 16.702800 ms MarkObjects: 83.524800 ms  DeleteObjects: 0.942800 ms)
+
+03/30/2023 21:49:54: Zonesystem Start 11010
+03/30/2023 21:49:54: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+03/30/2023 21:49:54: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+03/30/2023 21:49:54: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+03/30/2023 21:49:54: DungeonDB Start 11010
+03/30/2023 21:49:55: ZRpc timeout set to 30s 
+03/30/2023 21:49:55: Load world: Covan (Covan)
+03/30/2023 21:49:55:   missing /worlds/Covan.db
+03/30/2023 21:49:55: Generating locations
+03/30/2023 21:49:55: Checking for location duplicates
+03/30/2023 21:50:16: Failed to place all TrollCave02, placed 199 out of 200
+03/30/2023 21:50:35: Failed to place all Runestone_Mountains, placed 97 out of 100
+03/30/2023 21:50:37: Failed to place all TarPit1, placed 81 out of 100
+03/30/2023 21:50:39: Failed to place all TarPit2, placed 9 out of 100
+03/30/2023 21:50:44: Failed to place all MountainCave02, placed 133 out of 160
+03/30/2023 21:50:47:  Done generating locations, duration:52563,2233 ms
+03/30/2023 21:50:47: Starting respawn
+03/30/2023 21:50:47: Session auth respons callback
+03/30/2023 21:50:47: Ticket is System.Byte[] of length 360
+03/30/2023 21:50:54: tip:$loadscreen_tip15
+03/30/2023 21:50:55: Force generaeting hmap (-320.0, 0.0, 64.0)
+03/30/2023 21:50:55: Placed locations in zone -5,1  duration 16,9325 ms
+03/30/2023 21:50:55: Setting up valkyrie 
+03/30/2023 21:50:55: Show intro 11020
+03/30/2023 21:50:55: Show text YOU DIED:Давным-давно Всеотец Один объединил миры. Он поверг своих врагов и заточил их в десятый мир. Затем он обрубил ветви, которые соединяли эту тюрьму с Мировым Древом, и оставил ее дрейфовать в изгнании...
+
+
+
+На протяжении веков этот мир пребывал в спячке. Но он не исчез... Пока таяли льды, возникали и исчезали царства десятого мира без присмотра богов.
+
+
+
+Когда Один услышал, что его враги вновь набирают силу, окинул он взглядом Мидгард и послал своих валькирий отыскать в нем величайших воинов. Мертвые, они возродятся вновь…
+
+
+
+… в ВАЛЬХЕЙМЕ!
+03/30/2023 21:50:55: World pos (-602.3, 190.0, -692.1)   (-602.0, 189.4, -692.2)
+03/30/2023 21:50:55: Skipping unloading unused assets
+03/30/2023 21:50:55: Starting music intro
+03/30/2023 21:50:55: Minimap: Adding unique location (-322.2, 40.7, 57.3)
+03/30/2023 21:50:58: Loading dungeon
+03/30/2023 21:50:58: Dungeon loaded 0
+03/30/2023 21:50:58: Dungeon load time 0 ms
+03/30/2023 21:50:58: Generating DG_ForestCrypt(Clone), Seed: 1124249551, Bounds diff: (-43,1, -32,0, -37,0) / (20,9, 32,0, 27,0)
+03/30/2023 21:50:58: Available rooms:18
+03/30/2023 21:50:58: To place:40
+03/30/2023 21:50:58: Connections 4
+03/30/2023 21:50:58: placed 6 doors
+03/30/2023 21:50:58: Placed 32 rooms
+03/30/2023 21:50:58: Dungeon generated with seed 1124249551 and hash 781951661
+03/30/2023 21:50:58: Placed locations in zone -7,-10  duration 45,0923 ms
+03/30/2023 21:51:03: Placed locations in zone -6,-12  duration 0,7742 ms
+03/30/2023 21:51:03: Placed locations in zone -5,-12  duration 24,1565 ms
+03/30/2023 21:51:03: Placed locations in zone -6,-11  duration 1,4932 ms
+03/30/2023 21:51:04: Placed locations in zone -6,-10  duration 0 ms
+03/30/2023 21:51:04: Placed locations in zone -5,-8  duration 18,666 ms
+03/30/2023 21:51:05: Placed locations in zone -6,-8  duration 2,2401 ms
+03/30/2023 21:51:07: Spawned Fish5 x 5
+03/30/2023 21:51:07: Spawned Fish5 x 5
+03/30/2023 21:51:09: Current res 1920x1080     1920x1080
+03/30/2023 21:51:09: UI Group status changed MenuRoot = False
+03/30/2023 21:51:09: Found selected Settings
+03/30/2023 21:51:11: Current res 1920x1080     1920x1080
+03/30/2023 21:51:11: UI Group status changed MenuRoot = True
+03/30/2023 21:51:11: Found selected Continue
+03/30/2023 21:51:13: Found selected Continue
+03/30/2023 21:51:38: Spawned Seagal x 2
+03/30/2023 21:51:38: Spawned Fish2 x 4
+03/30/2023 21:51:42: Placed locations in zone -4,-11  duration 2,7738 ms
+03/30/2023 21:51:42: Placed locations in zone -4,-9  duration 2,0053 ms
+03/30/2023 21:51:42: Placed locations in zone -4,-8  duration 4,4802 ms
+03/30/2023 21:51:43: Spawned Fish1 x 4
+03/30/2023 21:51:43: Spawned Fish5 x 4
+03/30/2023 21:51:43: Spawned Greydwarf x 2
+03/30/2023 21:51:43: Spawned Greydwarf x 1
+03/30/2023 21:51:43: Placed locations in zone -11,-5  duration 20,9062 ms
+03/30/2023 21:51:43: Placed locations in zone -10,-5  duration 0,7469 ms
+03/30/2023 21:51:46: Placed locations in zone -11,-4  duration 2,24 ms
+03/30/2023 21:51:46: Placed locations in zone -3,-12  duration 2,2403 ms
+03/30/2023 21:51:47: Placed locations in zone -3,-8  duration 10,9099 ms
+03/30/2023 21:51:47: Spawned Deer x 3
+03/30/2023 21:51:47: Spawned Seagal x 1
+03/30/2023 21:51:47: Spawned Fish1 x 1
+03/30/2023 21:51:47: Spawned Fish5 x 4
+03/30/2023 21:51:47: Spawned Fish5 x 2
+03/30/2023 21:51:51: Force generaeting hmap (-256.0, 0.0, -576.0)
+03/30/2023 21:51:51: Force generaeting hmap (-256.0, 0.0, -512.0)
+03/30/2023 21:51:51: Placed locations in zone -2,-10  duration 5,9733 ms
+03/30/2023 21:51:52: Placed locations in zone -9,-3  duration 8,2132 ms
+03/30/2023 21:51:52: Loading dungeon
+03/30/2023 21:51:52: Dungeon loaded 0
+03/30/2023 21:51:52: Dungeon load time 0 ms
+03/30/2023 21:51:52: Generating DG_ForestCrypt(Clone), Seed: 1123427843, Bounds diff: (-38,1, -32,0, -21,2) / (25,9, 32,0, 42,8)
+03/30/2023 21:51:52: Available rooms:18
+03/30/2023 21:51:52: To place:40
+03/30/2023 21:51:52: Connections 4
+03/30/2023 21:51:52: placed 10 doors
+03/30/2023 21:51:52: Placed 28 rooms
+03/30/2023 21:51:52: Dungeon generated with seed 1123427843 and hash 1404884952
+03/30/2023 21:51:52: Placed locations in zone -8,-3  duration 27,0963 ms
+03/30/2023 21:51:55: Placed locations in zone -10,-2  duration 2,9866 ms
+03/30/2023 21:51:56: Placed locations in zone -7,-2  duration 0,7466 ms
+03/30/2023 21:52:00: Placed locations in zone 0,-9  duration 0 ms
+03/30/2023 21:52:02: Spawned Fish3 x 2
+03/30/2023 21:52:02: Spawned Fish8 x 3
+03/30/2023 21:52:02: Spawned Fish8 x 2
+03/30/2023 21:52:02: Spawned Fish8 x 4
+03/30/2023 21:52:02: Spawned Fish12 x 4
+03/30/2023 21:52:02: Spawned Fish12 x 2
+03/30/2023 21:52:02: Spawned Fish12 x 2
+03/30/2023 21:52:03: Starting descent
+03/30/2023 21:52:04: Placed locations in zone -8,0  duration 0 ms
+03/30/2023 21:52:04: Placed locations in zone -6,0  duration 0,7468 ms
+03/30/2023 21:52:05: Placed locations in zone 1,-8  duration 11,1993 ms
+03/30/2023 21:52:06: Spawned Fish3 x 1
+03/30/2023 21:52:06: Spawned Fish8 x 1
+03/30/2023 21:52:07: Placed locations in zone -4,1  duration 2,9869 ms
+03/30/2023 21:52:11: Loading dungeon
+03/30/2023 21:52:11: Dungeon loaded 0
+03/30/2023 21:52:11: Dungeon load time 0 ms
+03/30/2023 21:52:11: Generating DG_ForestCrypt(Clone), Seed: 1123175838, Bounds diff: (-23,3, -32,0, -27,8) / (40,7, 32,0, 36,2)
+03/30/2023 21:52:11: Available rooms:18
+03/30/2023 21:52:11: To place:40
+03/30/2023 21:52:11: Connections 4
+03/30/2023 21:52:11: cyclic detected and door types match, cool
+03/30/2023 21:52:11: cyclic detected and door types match, cool
+03/30/2023 21:52:11: cyclic detected and door types match, cool
+03/30/2023 21:52:11: cyclic detected and door types match, cool
+03/30/2023 21:52:11: placed 5 doors
+03/30/2023 21:52:11: Placed 29 rooms
+03/30/2023 21:52:11: Dungeon generated with seed 1123175838 and hash -602213632
+03/30/2023 21:52:11: Placed locations in zone -8,2  duration 29,6239 ms
+03/30/2023 21:52:11: Placed locations in zone -7,2  duration 2,9839 ms
+03/30/2023 21:52:11: Placed locations in zone -6,2  duration 0,7466 ms
+03/30/2023 21:52:11: Placed locations in zone -3,2  duration 0 ms
+03/30/2023 21:52:14: Spawned Fish3 x 2
+03/30/2023 21:52:14: Placed locations in zone -8,3  duration 8,2133 ms
+03/30/2023 21:52:15: Placed locations in zone -6,3  duration 4,5075 ms
+03/30/2023 21:52:15: SpawnPrefab StoneSpawner_TheQueen SPAWNING BossStone_TheQueen
+03/30/2023 21:52:17: Spawned Boar x 1
+03/30/2023 21:52:17: Spawned Neck x 4
+03/30/2023 21:52:17: Spawned Neck x 4
+03/30/2023 21:52:17: Spawned Fish1 x 5
+03/30/2023 21:52:17: Spawned Fish2 x 3
+03/30/2023 21:52:17: Spawned Fish3 x 1
+03/30/2023 21:52:17: Spawned Fish8 x 6
+03/30/2023 21:52:17: Spawned Fish8 x 4
+03/30/2023 21:52:17: Spawned Fish12 x 3
+03/30/2023 21:52:17: Spawned Fish12 x 5
+03/30/2023 21:52:17: Placed locations in zone -9,-1  duration 11,1999 ms
+03/30/2023 21:52:18: Placed locations in zone -9,0  duration 2,2403 ms
+03/30/2023 21:52:18: Placed locations in zone -9,2  duration 22,932 ms
+03/30/2023 21:52:18: Placed locations in zone -9,3  duration 2,267 ms
+03/30/2023 21:52:19: Loading dungeon
+03/30/2023 21:52:19: Dungeon loaded 0
+03/30/2023 21:52:19: Dungeon load time 0 ms
+03/30/2023 21:52:19: Generating DG_MeadowsFarm(Clone), Seed: 1077260230, Bounds diff: (-32,0, -32,0, -32,0) / (32,0, 32,0, 32,0)
+03/30/2023 21:52:19: Available rooms:13
+03/30/2023 21:52:19: To place:30
+03/30/2023 21:52:19: Placed 15 rooms
+03/30/2023 21:52:19: Dungeon generated with seed 1077260230 and hash 1182011138
+03/30/2023 21:52:19: Force generaeting hmap (-192.0, 0.0, 128.0)
+03/30/2023 21:52:19: Force generaeting hmap (-576.0, 0.0, 256.0)
+03/30/2023 21:52:19: Placed locations in zone -9,4  duration 145,6235 ms
+03/30/2023 21:52:19: Placed locations in zone -8,4  duration 2,2401 ms
+03/30/2023 21:52:19: Loading dungeon
+03/30/2023 21:52:19: Dungeon loaded 0
+03/30/2023 21:52:19: Dungeon load time 0 ms
+03/30/2023 21:52:19: Generating DG_MeadowsFarm(Clone), Seed: 1076630214, Bounds diff: (-32,0, -32,0, -32,0) / (32,0, 32,0, 32,0)
+03/30/2023 21:52:19: Available rooms:13
+03/30/2023 21:52:19: To place:30
+03/30/2023 21:52:19: Placed 10 rooms
+03/30/2023 21:52:19: Dungeon generated with seed 1076630214 and hash -1891391459
+03/30/2023 21:52:19: Force generaeting hmap (-192.0, 0.0, 128.0)
+03/30/2023 21:52:19: Force generaeting hmap (-448.0, 0.0, 256.0)
+03/30/2023 21:52:19: Placed locations in zone -7,4  duration 78,9336 ms
+03/30/2023 21:52:19: Force generaeting hmap (-448.0, 0.0, -192.0)
+03/30/2023 21:52:19: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 21:52:21: Spawned Deer x 1
+03/30/2023 21:52:21: Spawned Boar x 2
+03/30/2023 21:52:21: Spawned Seagal x 2
+03/30/2023 21:52:21: Spawned Fish2 x 1
+03/30/2023 21:52:21: Spawned Greyling x 1
+03/30/2023 21:52:22: Placed locations in zone -9,5  duration 3,0158 ms
+03/30/2023 21:52:22: Loading dungeon
+03/30/2023 21:52:22: Dungeon loaded 0
+03/30/2023 21:52:22: Dungeon load time 0 ms
+03/30/2023 21:52:22: Generating DG_ForestCrypt(Clone), Seed: 1122744142, Bounds diff: (-38,6, -32,0, -23,3) / (25,4, 32,0, 40,7)
+03/30/2023 21:52:22: Available rooms:18
+03/30/2023 21:52:22: To place:40
+03/30/2023 21:52:22: Connections 4
+03/30/2023 21:52:22: placed 6 doors
+03/30/2023 21:52:22: Placed 34 rooms
+03/30/2023 21:52:22: Dungeon generated with seed 1122744142 and hash 1714997324
+03/30/2023 21:52:22: Placed locations in zone -8,5  duration 38,0798 ms
+03/30/2023 21:52:22: Placed locations in zone -7,5  duration 2,9587 ms
+03/30/2023 21:52:22: We are here
+03/30/2023 21:52:22: We are here
+03/30/2023 21:52:22: Placed locations in zone -3,5  duration 6,0006 ms
+03/30/2023 21:52:22: Starting music morning
+03/30/2023 21:52:23: Placed locations in zone -1,5  duration 7,4992 ms
+03/30/2023 21:52:25: UI Group status changed MenuRoot = True
+03/30/2023 21:52:25: Spawned Boar x 1
+03/30/2023 21:52:25: Spawned Greyling x 1
+03/30/2023 21:52:27: Current res 1920x1080     1920x1080
+03/30/2023 21:52:27: UI Group status changed MenuRoot = False
+03/30/2023 21:52:27: Found selected Settings
+03/30/2023 21:52:32: Destroying valkyrie
+03/30/2023 21:52:36: UI Group status changed MenuRoot = True
+03/30/2023 21:52:36: Found selected Continue
+03/30/2023 21:52:41: Found selected Continue
+03/30/2023 21:52:57: Starting music meadows
+03/30/2023 21:52:57: Resumed music meadows at 0
+03/30/2023 21:52:59: Queue unlock msg:$msg_newitem:$item_torch
+03/30/2023 21:52:59: Queue unlock msg:$msg_newitem:$item_chest_rags
+03/30/2023 21:52:59: Queue unlock msg:$msg_newmaterial:$item_resin
+03/30/2023 21:53:07: UI Group status changed MenuRoot = True
+03/30/2023 21:53:09: Current res 1920x1080     1920x1080
+03/30/2023 21:53:09: UI Group status changed MenuRoot = False
+03/30/2023 21:53:09: Found selected Settings
+03/30/2023 21:53:23: UI Group status changed MenuRoot = True
+03/30/2023 21:53:23: Found selected Continue
+03/30/2023 21:53:29: Skipping unloading unused assets
+03/30/2023 21:53:45: Current res 1920x1080     1920x1080
+03/30/2023 21:53:45: UI Group status changed MenuRoot = False
+03/30/2023 21:53:45: Found selected Settings
+03/30/2023 21:53:55: UI Group status changed MenuRoot = True
+03/30/2023 21:53:55: Found selected Continue
+03/30/2023 21:54:14: Update PlayFab entity token
+03/30/2023 21:54:16: Current res 1920x1080     1920x1080
+03/30/2023 21:54:16: UI Group status changed MenuRoot = False
+03/30/2023 21:54:16: Found selected Settings
+03/30/2023 21:54:44: UI Group status changed MenuRoot = True
+03/30/2023 21:54:44: Found selected Continue
+03/30/2023 21:54:45: Current res 1920x1080     1920x1080
+03/30/2023 21:54:45: UI Group status changed MenuRoot = False
+03/30/2023 21:54:45: Found selected Settings
+03/30/2023 21:54:57: UI Group status changed MenuRoot = True
+03/30/2023 21:54:57: Found selected Continue
+03/30/2023 21:55:04: Current res 1920x1080     1920x1080
+03/30/2023 21:55:04: UI Group status changed MenuRoot = False
+03/30/2023 21:55:04: Found selected Settings
+03/30/2023 21:55:45: UI Group status changed MenuRoot = True
+03/30/2023 21:55:45: Found selected Continue
+03/30/2023 21:55:53: Current res 1920x1080     1920x1080
+03/30/2023 21:55:53: UI Group status changed MenuRoot = False
+03/30/2023 21:55:53: Found selected Settings
+03/30/2023 21:56:23: UI Group status changed MenuRoot = True
+03/30/2023 21:56:23: Found selected Continue
+03/30/2023 21:56:34: Current res 1920x1080     1920x1080
+03/30/2023 21:56:34: UI Group status changed MenuRoot = False
+03/30/2023 21:56:34: Found selected Settings
+03/30/2023 21:56:44: UI Group status changed MenuRoot = True
+03/30/2023 21:56:44: Found selected Continue
+03/30/2023 21:56:54: Current res 1920x1080     1920x1080
+03/30/2023 21:56:54: UI Group status changed MenuRoot = False
+03/30/2023 21:56:54: Found selected Settings
+03/30/2023 21:57:06: UI Group status changed MenuRoot = True
+03/30/2023 21:57:06: Found selected Continue
+03/30/2023 21:57:23: Current res 1920x1080     1920x1080
+03/30/2023 21:57:23: UI Group status changed MenuRoot = False
+03/30/2023 21:57:23: Found selected Settings
+03/30/2023 21:57:35: UI Group status changed MenuRoot = True
+03/30/2023 21:57:35: Found selected Continue
+03/30/2023 21:57:49: Current res 1920x1080     1920x1080
+03/30/2023 21:57:49: UI Group status changed MenuRoot = False
+03/30/2023 21:57:49: Found selected Settings
+03/30/2023 21:57:51: UI Group status changed Controls = True
+03/30/2023 21:57:52: UI Group status changed Graphics = True
+03/30/2023 21:58:06: UI Group status changed MenuRoot = True
+03/30/2023 21:58:06: Found selected Continue
+03/30/2023 21:58:10: Current res 1920x1080     1920x1080
+03/30/2023 21:58:10: UI Group status changed MenuRoot = False
+03/30/2023 21:58:10: Found selected Settings
+03/30/2023 21:58:14: UI Group status changed MenuRoot = True
+03/30/2023 21:58:14: Found selected Continue
+03/30/2023 21:58:21: Current res 1920x1080     1920x1080
+03/30/2023 21:58:21: UI Group status changed MenuRoot = False
+03/30/2023 21:58:21: Found selected Settings
+03/30/2023 21:58:29: UI Group status changed MenuRoot = True
+03/30/2023 21:58:29: Found selected Continue
+03/30/2023 21:58:35: Current res 1920x1080     1920x1080
+03/30/2023 21:58:35: UI Group status changed MenuRoot = False
+03/30/2023 21:58:35: Found selected Settings
+03/30/2023 21:58:41: UI Group status changed MenuRoot = True
+03/30/2023 21:58:41: Found selected Continue
+03/30/2023 21:58:47: Current res 1920x1080     1920x1080
+03/30/2023 21:58:47: UI Group status changed MenuRoot = False
+03/30/2023 21:58:47: Found selected Settings
+03/30/2023 21:58:51: UI Group status changed MenuRoot = True
+03/30/2023 21:58:51: Found selected Continue
+03/30/2023 21:59:01: Current res 1920x1080     1920x1080
+03/30/2023 21:59:01: UI Group status changed MenuRoot = False
+03/30/2023 21:59:01: Found selected Settings
+03/30/2023 21:59:11: UI Group status changed MenuRoot = True
+03/30/2023 21:59:11: Found selected Continue
+03/30/2023 21:59:15: Current res 1920x1080     1920x1080
+03/30/2023 21:59:15: UI Group status changed MenuRoot = False
+03/30/2023 21:59:15: Found selected Settings
+03/30/2023 21:59:34: UI Group status changed MenuRoot = True
+03/30/2023 21:59:34: Found selected Continue
+03/30/2023 22:00:43: Current res 1920x1080     1920x1080
+03/30/2023 22:00:43: UI Group status changed MenuRoot = False
+03/30/2023 22:00:43: Found selected Settings
+03/30/2023 22:00:48: UI Group status changed MenuRoot = True
+03/30/2023 22:00:48: Found selected Continue
+03/30/2023 22:01:14: Uncompressed size 8388617
+03/30/2023 22:01:14: Compressed size 8367
+saving started
+03/30/2023 22:01:14: Considering autobackup. World time: 132,12, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:01:14: Skipping backup. World session not long enough.
+saving finished
+03/30/2023 22:01:14: clone 19
+03/30/2023 22:01:14: World save writing starting
+03/30/2023 22:01:14: World save writing started
+03/30/2023 22:01:14: Saved 20914 zdos
+03/30/2023 22:01:14: World save writing finishing
+03/30/2023 22:01:14: Cloud Save: 2545123 bytes. /worlds/Covan.db
+03/30/2023 22:01:14: Steam writing file chunks 1 / 1, (2545123 bytes)
+03/30/2023 22:01:14: World save writing finished
+03/30/2023 22:01:14: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 22:01:14: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:01:14: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 22:01:14: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:01:14: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 22:01:14: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:01:14: Considering autobackup. World time: 132,12, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:01:14: Skipping backup. World session not long enough.
+03/30/2023 22:01:14: World saved ( 214,6045ms )
+03/30/2023 22:01:14: Considering autobackup. World time: 132,12, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:01:14: Skipping backup. World session not long enough.
+03/30/2023 22:01:17: Found selected Continue
+03/30/2023 22:01:53: UI Group status changed MenuRoot = True
+03/30/2023 22:01:55: Current res 1920x1080     1920x1080
+03/30/2023 22:01:55: UI Group status changed MenuRoot = False
+03/30/2023 22:01:55: Found selected Settings
+03/30/2023 22:02:05: UI Group status changed MenuRoot = True
+03/30/2023 22:02:05: Found selected Continue
+03/30/2023 22:02:09: Current res 1920x1080     1920x1080
+03/30/2023 22:02:09: UI Group status changed MenuRoot = False
+03/30/2023 22:02:09: Found selected Settings
+03/30/2023 22:02:19: UI Group status changed MenuRoot = True
+03/30/2023 22:02:19: Found selected Continue
+03/30/2023 22:02:24: Skipping unloading unused assets
+03/30/2023 22:02:25: Current res 1920x1080     1920x1080
+03/30/2023 22:02:25: UI Group status changed MenuRoot = False
+03/30/2023 22:02:25: Found selected Settings
+03/30/2023 22:02:35: UI Group status changed MenuRoot = True
+03/30/2023 22:02:35: Found selected Continue
+03/30/2023 22:02:38: Current res 1920x1080     1920x1080
+03/30/2023 22:02:38: UI Group status changed MenuRoot = False
+03/30/2023 22:02:38: Found selected Settings
+03/30/2023 22:02:57: UI Group status changed MenuRoot = True
+03/30/2023 22:02:57: Found selected Continue
+03/30/2023 22:03:18: Current res 1920x1080     1920x1080
+03/30/2023 22:03:18: UI Group status changed MenuRoot = False
+03/30/2023 22:03:18: Found selected Settings
+03/30/2023 22:03:27: UI Group status changed MenuRoot = True
+03/30/2023 22:03:27: Found selected Continue
+03/30/2023 22:03:30: Found selected Continue
+03/30/2023 22:03:42: UI Group status changed MenuRoot = True
+03/30/2023 22:03:43: Current res 1920x1080     1920x1080
+03/30/2023 22:03:43: UI Group status changed MenuRoot = False
+03/30/2023 22:03:43: Found selected Settings
+03/30/2023 22:03:51: UI Group status changed MenuRoot = True
+03/30/2023 22:03:51: Found selected Continue
+03/30/2023 22:03:53: Found selected Continue
+03/30/2023 22:03:58: UI Group status changed MenuRoot = True
+03/30/2023 22:03:59: Current res 1920x1080     1920x1080
+03/30/2023 22:03:59: UI Group status changed MenuRoot = False
+03/30/2023 22:03:59: Found selected Settings
+03/30/2023 22:04:04: UI Group status changed MenuRoot = True
+03/30/2023 22:04:04: Found selected Continue
+03/30/2023 22:04:06: Found selected Continue
+03/30/2023 22:04:36: UI Group status changed MenuRoot = True
+03/30/2023 22:04:38: Current res 1920x1080     1920x1080
+03/30/2023 22:04:38: UI Group status changed MenuRoot = False
+03/30/2023 22:04:38: Found selected Settings
+03/30/2023 22:04:50: UI Group status changed MenuRoot = True
+03/30/2023 22:04:50: Found selected Continue
+03/30/2023 22:04:52: Found selected Continue
+03/30/2023 22:04:54: UI Group status changed MenuRoot = True
+03/30/2023 22:04:54: Found selected Continue
+03/30/2023 22:04:55: Current res 1920x1080     1920x1080
+03/30/2023 22:04:55: UI Group status changed MenuRoot = False
+03/30/2023 22:04:55: Found selected Settings
+03/30/2023 22:05:00: UI Group status changed MenuRoot = True
+03/30/2023 22:05:00: Found selected Continue
+03/30/2023 22:05:02: Current res 1920x1080     1920x1080
+03/30/2023 22:05:02: UI Group status changed MenuRoot = False
+03/30/2023 22:05:02: Found selected Settings
+03/30/2023 22:05:09: UI Group status changed MenuRoot = True
+03/30/2023 22:05:09: Found selected Continue
+03/30/2023 22:05:12: Found selected Continue
+03/30/2023 22:05:13: UI Group status changed MenuRoot = True
+03/30/2023 22:05:13: Found selected Continue
+03/30/2023 22:05:15: Current res 1920x1080     1920x1080
+03/30/2023 22:05:15: UI Group status changed MenuRoot = False
+03/30/2023 22:05:15: Found selected Settings
+03/30/2023 22:05:19: UI Group status changed MenuRoot = True
+03/30/2023 22:05:19: Found selected Continue
+03/30/2023 22:05:21: Found selected Continue
+03/30/2023 22:05:38: UI Group status changed MenuRoot = True
+03/30/2023 22:05:39: Current res 1920x1080     1920x1080
+03/30/2023 22:05:39: UI Group status changed MenuRoot = False
+03/30/2023 22:05:39: Found selected Settings
+03/30/2023 22:05:44: UI Group status changed MenuRoot = True
+03/30/2023 22:05:44: Found selected Continue
+03/30/2023 22:05:45: Found selected Continue
+03/30/2023 22:05:53: UI Group status changed MenuRoot = True
+03/30/2023 22:05:54: Current res 1920x1080     1920x1080
+03/30/2023 22:05:54: UI Group status changed MenuRoot = False
+03/30/2023 22:05:54: Found selected Settings
+03/30/2023 22:06:00: UI Group status changed MenuRoot = True
+03/30/2023 22:06:00: Found selected Continue
+03/30/2023 22:06:02: Found selected Continue
+03/30/2023 22:06:56: Invalid swim direction
+03/30/2023 22:08:33: Spawned Greyling x 1
+03/30/2023 22:08:54: UI Group status changed MenuRoot = True
+03/30/2023 22:08:56: Current res 1920x1080     1920x1080
+03/30/2023 22:08:56: UI Group status changed MenuRoot = False
+03/30/2023 22:08:56: Found selected Settings
+03/30/2023 22:09:00: UI Group status changed MenuRoot = True
+03/30/2023 22:09:00: Found selected Continue
+03/30/2023 22:09:02: Found selected Continue
+03/30/2023 22:09:33: Update PlayFab entity token
+03/30/2023 22:09:40: UI Group status changed MenuRoot = True
+03/30/2023 22:09:43: Current res 1920x1080     1920x1080
+03/30/2023 22:09:43: UI Group status changed MenuRoot = False
+03/30/2023 22:09:43: Found selected Settings
+03/30/2023 22:09:54: UI Group status changed MenuRoot = True
+03/30/2023 22:09:54: Found selected Continue
+03/30/2023 22:09:56: Found selected Continue
+03/30/2023 22:09:57: UI Group status changed MenuRoot = True
+03/30/2023 22:09:57: Found selected Continue
+03/30/2023 22:09:58: Current res 1920x1080     1920x1080
+03/30/2023 22:09:58: UI Group status changed MenuRoot = False
+03/30/2023 22:09:58: Found selected Settings
+03/30/2023 22:10:06: UI Group status changed MenuRoot = True
+03/30/2023 22:10:06: Found selected Continue
+03/30/2023 22:10:08: Found selected Continue
+03/30/2023 22:11:32: UI Group status changed MenuRoot = True
+03/30/2023 22:11:34: Current res 1920x1080     1920x1080
+03/30/2023 22:11:34: UI Group status changed MenuRoot = False
+03/30/2023 22:11:34: Found selected Settings
+03/30/2023 22:11:38: UI Group status changed MenuRoot = True
+03/30/2023 22:11:38: Found selected Continue
+03/30/2023 22:11:40: Found selected Continue
+03/30/2023 22:11:41: UI Group status changed MenuRoot = True
+03/30/2023 22:11:41: Found selected Continue
+03/30/2023 22:11:42: Current res 1920x1080     1920x1080
+03/30/2023 22:11:42: UI Group status changed MenuRoot = False
+03/30/2023 22:11:42: Found selected Settings
+03/30/2023 22:11:50: UI Group status changed MenuRoot = True
+03/30/2023 22:11:50: Found selected Continue
+03/30/2023 22:11:58: Found selected Continue
+03/30/2023 22:11:59: UI Group status changed MenuRoot = True
+03/30/2023 22:11:59: Found selected Continue
+03/30/2023 22:12:00: Current res 1920x1080     1920x1080
+03/30/2023 22:12:00: UI Group status changed MenuRoot = False
+03/30/2023 22:12:00: Found selected Settings
+03/30/2023 22:12:06: UI Group status changed MenuRoot = True
+03/30/2023 22:12:06: Found selected Continue
+03/30/2023 22:12:08: Found selected Continue
+03/30/2023 22:12:20: UI Group status changed MenuRoot = True
+03/30/2023 22:12:21: Current res 1920x1080     1920x1080
+03/30/2023 22:12:21: UI Group status changed MenuRoot = False
+03/30/2023 22:12:21: Found selected Settings
+03/30/2023 22:12:34: UI Group status changed MenuRoot = True
+03/30/2023 22:12:34: Found selected Continue
+03/30/2023 22:12:36: Found selected Continue
+03/30/2023 22:12:44: UI Group status changed MenuRoot = True
+03/30/2023 22:12:44: Found selected Continue
+03/30/2023 22:12:45: Current res 1920x1080     1920x1080
+03/30/2023 22:12:45: UI Group status changed MenuRoot = False
+03/30/2023 22:12:45: Found selected Settings
+03/30/2023 22:12:51: UI Group status changed MenuRoot = True
+03/30/2023 22:12:51: Found selected Continue
+03/30/2023 22:12:53: Found selected Continue
+03/30/2023 22:13:04: UI Group status changed MenuRoot = True
+03/30/2023 22:13:06: Current res 1920x1080     1920x1080
+03/30/2023 22:13:06: UI Group status changed MenuRoot = False
+03/30/2023 22:13:06: Found selected Settings
+03/30/2023 22:13:26: UI Group status changed MenuRoot = True
+03/30/2023 22:13:26: Found selected Continue
+03/30/2023 22:13:28: Current res 1920x1080     1920x1080
+03/30/2023 22:13:28: UI Group status changed MenuRoot = False
+03/30/2023 22:13:28: Found selected Settings
+03/30/2023 22:13:41: UI Group status changed MenuRoot = True
+03/30/2023 22:13:41: Found selected Continue
+03/30/2023 22:13:42: Current res 1920x1080     1920x1080
+03/30/2023 22:13:42: UI Group status changed MenuRoot = False
+03/30/2023 22:13:42: Found selected Settings
+03/30/2023 22:13:51: UI Group status changed MenuRoot = True
+03/30/2023 22:13:51: Found selected Continue
+03/30/2023 22:13:53: Current res 1920x1080     1920x1080
+03/30/2023 22:13:53: UI Group status changed MenuRoot = False
+03/30/2023 22:13:53: Found selected Settings
+03/30/2023 22:14:13: UI Group status changed MenuRoot = True
+03/30/2023 22:14:13: Found selected Continue
+03/30/2023 22:14:15: Found selected Continue
+03/30/2023 22:15:18: UI Group status changed MenuRoot = True
+03/30/2023 22:15:19: Current res 1920x1080     1920x1080
+03/30/2023 22:15:19: UI Group status changed MenuRoot = False
+03/30/2023 22:15:19: Found selected Settings
+03/30/2023 22:15:31: UI Group status changed MenuRoot = True
+03/30/2023 22:15:31: Found selected Continue
+03/30/2023 22:15:33: Found selected Continue
+03/30/2023 22:15:36: UI Group status changed MenuRoot = True
+03/30/2023 22:15:38: Current res 1920x1080     1920x1080
+03/30/2023 22:15:38: UI Group status changed MenuRoot = False
+03/30/2023 22:15:38: Found selected Settings
+03/30/2023 22:15:51: UI Group status changed MenuRoot = True
+03/30/2023 22:15:51: Found selected Continue
+03/30/2023 22:15:54: Found selected Continue
+03/30/2023 22:16:20: Queue unlock msg:$msg_newmaterial:$item_stone
+03/30/2023 22:16:23: Queue unlock msg:$msg_newmaterial:$item_wood
+03/30/2023 22:16:23: Queue unlock msg:$msg_newrecipe:$item_axe_stone
+03/30/2023 22:16:23: Queue unlock msg:$msg_newrecipe:$item_club
+03/30/2023 22:16:23: Queue unlock msg:$msg_newrecipe:$item_hammer
+03/30/2023 22:16:23: Queue unlock msg:$msg_newrecipe:$item_torch
+03/30/2023 22:16:37: Show text :Солнце с луною крылами затмит
+Наша матерь, спускаясь с высокой горы,
+Ливнем она свои слезы прольет,
+Голос ее нас домой отведет.
+03/30/2023 22:16:45: Queue unlock msg:$msg_newitem:$item_raspberries
+03/30/2023 22:16:48: Show text :Давным-давно корону он носил
+Под небом красным, словно кровь.
+Теперь он превратился в дым,
+Но дух его не ждет покой.
+03/30/2023 22:16:57: Show text :Рожденная в доспехах,
+Мать многих.
+Королева без короны,
+Правитель внизу.
+03/30/2023 22:17:07: Spawned Seagal x 1
+03/30/2023 22:18:07: Setting selected recipe 0
+03/30/2023 22:18:07: UI Group status changed root = True
+03/30/2023 22:18:07: UI Group status changed Player = True
+03/30/2023 22:18:09: Setting selected recipe 0
+03/30/2023 22:18:09: UI Group status changed root = True
+03/30/2023 22:18:09: UI Group status changed Player = True
+03/30/2023 22:18:22: Setting selected recipe 2
+03/30/2023 22:18:32: Setting selected recipe 2
+03/30/2023 22:18:32: UI Group status changed root = True
+03/30/2023 22:18:32: UI Group status changed Player = True
+03/30/2023 22:18:36: Setting selected recipe 2
+03/30/2023 22:18:43: Placed locations in zone -10,-1  duration 0,7464 ms
+03/30/2023 22:18:43: Placed locations in zone -10,0  duration 12,0629 ms
+03/30/2023 22:18:43: Placed locations in zone -10,1  duration 0,7467 ms
+03/30/2023 22:18:43: Placed locations in zone -10,2  duration 0,7469 ms
+03/30/2023 22:18:46: Loading dungeon
+03/30/2023 22:18:46: Dungeon loaded 0
+03/30/2023 22:18:46: Dungeon load time 0 ms
+03/30/2023 22:18:46: Generating DG_ForestCrypt(Clone), Seed: 1123420689, Bounds diff: (-29,8, -32,0, -22,7) / (34,2, 32,0, 41,3)
+03/30/2023 22:18:46: Available rooms:18
+03/30/2023 22:18:46: To place:40
+03/30/2023 22:18:46: Connections 4
+03/30/2023 22:18:46: placed 7 doors
+03/30/2023 22:18:46: Placed 41 rooms
+03/30/2023 22:18:46: Dungeon generated with seed 1123420689 and hash 1111321881
+03/30/2023 22:18:46: Placed locations in zone -10,4  duration 36,5868 ms
+03/30/2023 22:18:46: Placed locations in zone -10,5  duration 24,427 ms
+03/30/2023 22:18:47: Loading dungeon
+03/30/2023 22:18:47: Dungeon loaded 29
+03/30/2023 22:18:47: Dungeon load time 17,1733 ms
+03/30/2023 22:18:50: Loading dungeon
+03/30/2023 22:18:50: Dungeon loaded 29
+03/30/2023 22:18:50: Dungeon load time 15,6797 ms
+03/30/2023 22:18:52: Spawned Seagal x 2
+03/30/2023 22:19:25: Setting selected recipe 2
+03/30/2023 22:19:25: UI Group status changed root = True
+03/30/2023 22:19:25: UI Group status changed Player = True
+03/30/2023 22:19:42: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 22:19:43: Spawned Deer x 3
+03/30/2023 22:19:44: Show text :Сёстры и братья стены щитов, поднимите свои сердца! Вы - величайшие воины, избранные самим Всеотцом за ваше мужество и доблесть. Смерть привела тебя в земли, где ты можешь переродится в тяжёлом труде и битве, заслужить милость и уважение богов. Оставь свои воспоминания гнить в Мидгарде надолго, вместе со своими грехами. Лучшая часть тебя - здесь!
+03/30/2023 22:21:55: UI Group status changed MenuRoot = True
+03/30/2023 22:21:56: Current res 1920x1080     1920x1080
+03/30/2023 22:21:56: UI Group status changed MenuRoot = False
+03/30/2023 22:21:56: Found selected Settings
+03/30/2023 22:22:15: Unloading unused assets
+Unloading 10 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 1419 unused Assets to reduce memory usage. Loaded Objects now: 1763973.
+Total: 503.174900 ms (FindLiveObjects: 82.704800 ms CreateObjectMapping: 36.317900 ms MarkObjects: 380.834100 ms  DeleteObjects: 3.317800 ms)
+
+03/30/2023 22:22:31: UI Group status changed MenuRoot = True
+03/30/2023 22:22:31: Found selected Continue
+03/30/2023 22:23:13: Current res 1920x1080     1920x1080
+03/30/2023 22:23:13: UI Group status changed MenuRoot = False
+03/30/2023 22:23:13: Found selected Settings
+03/30/2023 22:23:26: UI Group status changed MenuRoot = True
+03/30/2023 22:23:26: Found selected Continue
+03/30/2023 22:23:37: Current res 1920x1080     1920x1080
+03/30/2023 22:23:37: UI Group status changed MenuRoot = False
+03/30/2023 22:23:37: Found selected Settings
+03/30/2023 22:23:43: UI Group status changed MenuRoot = True
+03/30/2023 22:23:43: Found selected Continue
+03/30/2023 22:23:46: Current res 1920x1080     1920x1080
+03/30/2023 22:23:46: UI Group status changed MenuRoot = False
+03/30/2023 22:23:46: Found selected Settings
+03/30/2023 22:24:57: UI Group status changed MenuRoot = True
+03/30/2023 22:24:57: Found selected Continue
+03/30/2023 22:25:20: Current res 1920x1080     1920x1080
+03/30/2023 22:25:20: UI Group status changed MenuRoot = False
+03/30/2023 22:25:20: Found selected Settings
+03/30/2023 22:25:26: UI Group status changed MenuRoot = True
+03/30/2023 22:25:26: Found selected Continue
+03/30/2023 22:25:28: Found selected Continue
+03/30/2023 22:28:11: Setting selected recipe 0
+03/30/2023 22:28:11: UI Group status changed root = True
+03/30/2023 22:28:11: UI Group status changed Player = True
+03/30/2023 22:28:18: Queue unlock msg:$msg_newitem:$item_axe_stone
+03/30/2023 22:28:18: Setting selected recipe 1
+03/30/2023 22:28:58: Setting selected recipe 2
+03/30/2023 22:28:58: UI Group status changed root = True
+03/30/2023 22:28:58: UI Group status changed Player = True
+03/30/2023 22:29:00: Setting selected recipe 3
+03/30/2023 22:29:13: Placed locations in zone -10,6  duration 11,9469 ms
+03/30/2023 22:29:13: Loading dungeon
+03/30/2023 22:29:13: Dungeon loaded 0
+03/30/2023 22:29:13: Dungeon load time 0 ms
+03/30/2023 22:29:13: Generating DG_ForestCrypt(Clone), Seed: 1122893794, Bounds diff: (-26,6, -32,0, -27,4) / (37,4, 32,0, 36,6)
+03/30/2023 22:29:13: Available rooms:18
+03/30/2023 22:29:13: To place:40
+03/30/2023 22:29:13: Connections 4
+03/30/2023 22:29:13: placed 13 doors
+03/30/2023 22:29:13: Placed 33 rooms
+03/30/2023 22:29:13: Dungeon generated with seed 1122893794 and hash 896632226
+03/30/2023 22:29:13: Placed locations in zone -9,6  duration 29,1778 ms
+03/30/2023 22:29:13: Loading dungeon
+03/30/2023 22:29:13: Dungeon loaded 10
+03/30/2023 22:29:13: Dungeon load time 33,6306 ms
+03/30/2023 22:29:13: Placed locations in zone -4,6  duration 4,4801 ms
+03/30/2023 22:29:13: Placed locations in zone -3,6  duration 0,7437 ms
+03/30/2023 22:29:25: Update PlayFab entity token
+03/30/2023 22:29:35: Placed locations in zone -11,-2  duration 0 ms
+03/30/2023 22:29:35: Loading dungeon
+03/30/2023 22:29:35: Dungeon loaded 0
+03/30/2023 22:29:35: Dungeon load time 0 ms
+03/30/2023 22:29:35: Generating DG_ForestCrypt(Clone), Seed: 1124065353, Bounds diff: (-40,9, -32,0, -39,7) / (23,1, 32,0, 24,3)
+03/30/2023 22:29:35: Available rooms:18
+03/30/2023 22:29:35: To place:40
+03/30/2023 22:29:35: Connections 4
+03/30/2023 22:29:35: placed 4 doors
+03/30/2023 22:29:35: Placed 28 rooms
+03/30/2023 22:29:35: Dungeon generated with seed 1124065353 and hash -834143212
+03/30/2023 22:29:35: Placed locations in zone -11,1  duration 25,4149 ms
+03/30/2023 22:29:35: Loading dungeon
+03/30/2023 22:29:35: Dungeon loaded 0
+03/30/2023 22:29:35: Dungeon load time 0 ms
+03/30/2023 22:29:35: Generating DG_ForestCrypt(Clone), Seed: 1123979229, Bounds diff: (-33,7, -32,0, -26,2) / (30,3, 32,0, 37,8)
+03/30/2023 22:29:35: Available rooms:18
+03/30/2023 22:29:35: To place:40
+03/30/2023 22:29:35: Connections 4
+03/30/2023 22:29:35: placed 6 doors
+03/30/2023 22:29:35: Placed 28 rooms
+03/30/2023 22:29:35: Dungeon generated with seed 1123979229 and hash 81595219
+03/30/2023 22:29:35: Placed locations in zone -11,2  duration 44,0525 ms
+03/30/2023 22:29:35: Placed locations in zone -11,3  duration 0,7739 ms
+03/30/2023 22:29:36: Loading dungeon
+03/30/2023 22:29:36: Dungeon loaded 0
+03/30/2023 22:29:36: Dungeon load time 0 ms
+03/30/2023 22:29:36: Generating DG_ForestCrypt(Clone), Seed: 1123732276, Bounds diff: (-24,4, -32,0, -25,4) / (39,6, 32,0, 38,6)
+03/30/2023 22:29:36: Available rooms:18
+03/30/2023 22:29:36: To place:40
+03/30/2023 22:29:36: Connections 4
+03/30/2023 22:29:36: placed 7 doors
+03/30/2023 22:29:36: Placed 32 rooms
+03/30/2023 22:29:36: Dungeon generated with seed 1123732276 and hash -1659781664
+03/30/2023 22:29:36: Placed locations in zone -11,4  duration 26,1329 ms
+03/30/2023 22:29:36: Spawned Greyling x 1
+03/30/2023 22:29:36: Spawned Greyling x 1
+03/30/2023 22:29:38: Loading dungeon
+03/30/2023 22:29:38: Dungeon loaded 10
+03/30/2023 22:29:38: Dungeon load time 34,3464 ms
+03/30/2023 22:29:39: Loading dungeon
+03/30/2023 22:29:39: Dungeon loaded 15
+03/30/2023 22:29:39: Dungeon load time 72,9144 ms
+03/30/2023 22:29:52: UI Group status changed MenuRoot = True
+03/30/2023 22:29:53: Uncompressed size 8388617
+03/30/2023 22:29:53: Compressed size 8395
+saving started
+03/30/2023 22:29:53: Considering autobackup. World time: 1261,18, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:29:53: Creating first autobackup
+03/30/2023 22:29:53: Saving backup at: C:\Users\Dmytro\AppData\LocalLow\IronGate\Valheim\characters_local\dee_backup_auto-20230330222953.fch
+saving finished
+03/30/2023 22:29:53: clone 19
+03/30/2023 22:29:53: World save writing starting
+03/30/2023 22:29:53: World save writing started
+03/30/2023 22:29:53: Saved 26432 zdos
+03/30/2023 22:29:53: World save writing finishing
+03/30/2023 22:29:53: Cloud Save: 3169798 bytes. /worlds/Covan.db
+03/30/2023 22:29:53: Steam writing file chunks 1 / 1, (3169798 bytes)
+03/30/2023 22:29:53: World save writing finished
+03/30/2023 22:29:53: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 22:29:53: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:29:53: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 22:29:53: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:29:53: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 22:29:53: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:29:53: Considering autobackup. World time: 1261,18, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:29:53: No autobackup needed yet...
+03/30/2023 22:29:53: World saved ( 277,8257ms )
+03/30/2023 22:29:53: Considering autobackup. World time: 1261,18, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:29:53: Creating first autobackup
+03/30/2023 22:29:53: Saving backup at: \worlds\Covan_backup_auto-20230330222953.db
+03/30/2023 22:29:53: Cloud Copy: 3169798 bytes. /worlds/Covan.db -> \worlds\Covan_backup_auto-20230330222953.db
+03/30/2023 22:29:53: Steam writing file chunks 1 / 1, (3169798 bytes)
+03/30/2023 22:29:53: World auto backup saved ( 00:00:00.0993091ms )
+03/30/2023 22:29:54: Found selected Continue
+03/30/2023 22:30:21: UI Group status changed MenuRoot = True
+03/30/2023 22:30:21: Found selected Continue
+03/30/2023 22:30:22: Current res 1920x1080     1920x1080
+03/30/2023 22:30:22: UI Group status changed MenuRoot = False
+03/30/2023 22:30:22: Found selected Settings
+03/30/2023 22:30:29: UI Group status changed MenuRoot = True
+03/30/2023 22:30:29: Found selected Continue
+03/30/2023 22:30:31: Found selected Continue
+03/30/2023 22:30:34: Starting music evening
+03/30/2023 22:30:35: Stopped music meadows at 2496635
+03/30/2023 22:30:51: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 22:30:56: Im still nto the owner
+03/30/2023 22:30:56: Im finally the owner
+03/30/2023 22:30:56: Queue unlock msg:$msg_newmaterial:$item_dandelion
+03/30/2023 22:31:00: Setting selected recipe 2
+03/30/2023 22:31:00: UI Group status changed root = True
+03/30/2023 22:31:00: UI Group status changed Player = True
+03/30/2023 22:31:07: Queue unlock msg:$msg_newitem:$item_hammer
+03/30/2023 22:31:07: Queue unlock msg:$msg_newpiece:$piece_repair
+03/30/2023 22:31:07: Queue unlock msg:$msg_newpiece:$piece_firepit
+03/30/2023 22:31:07: Queue unlock msg:$msg_newpiece:$piece_woodstack
+03/30/2023 22:31:07: Queue unlock msg:$msg_newpiece:$piece_stonepile
+03/30/2023 22:31:07: Queue unlock msg:$msg_newpiece:$piece_cookingstation
+03/30/2023 22:31:07: Queue unlock msg:$msg_newpiece:$piece_workbench
+03/30/2023 22:31:07: Setting selected recipe 1
+03/30/2023 22:31:09: Setting selected recipe 1
+03/30/2023 22:31:10: Setting selected recipe 0
+03/30/2023 22:31:13: Queue unlock msg:$msg_newitem:$item_club
+03/30/2023 22:31:13: Setting selected recipe 3
+03/30/2023 22:32:09: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 22:32:11: Setting selected recipe 3
+03/30/2023 22:32:11: UI Group status changed root = True
+03/30/2023 22:32:11: UI Group status changed Player = True
+03/30/2023 22:32:14: UI Group status changed root = False
+03/30/2023 22:32:14: Found selected Texts
+03/30/2023 22:32:14: UI Group status changed Player = False
+03/30/2023 22:32:18: UI Group status changed root = True
+03/30/2023 22:32:18: UI Group status changed Player = True
+03/30/2023 22:32:24: UI Group status changed root = False
+03/30/2023 22:32:24: Found selected Skills
+03/30/2023 22:32:24: UI Group status changed Player = False
+03/30/2023 22:32:28: UI Group status changed root = True
+03/30/2023 22:32:28: UI Group status changed Player = True
+03/30/2023 22:32:36: Found selected PVP
+03/30/2023 22:33:08: Im still nto the owner
+03/30/2023 22:33:08: Im still nto the owner
+03/30/2023 22:33:08: Im finally the owner
+03/30/2023 22:33:20: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 22:33:22: UI Group status changed MenuRoot = True
+03/30/2023 22:33:24: Uncompressed size 8388617
+03/30/2023 22:33:24: Compressed size 8396
+saving started
+03/30/2023 22:33:24: Considering autobackup. World time: 1459,8, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:33:24: No autobackup needed yet...
+saving finished
+03/30/2023 22:33:24: clone 19
+03/30/2023 22:33:24: World save writing starting
+03/30/2023 22:33:24: World save writing started
+03/30/2023 22:33:24: Saved 26419 zdos
+03/30/2023 22:33:24: World save writing finishing
+03/30/2023 22:33:24: Cloud Save: 3172462 bytes. /worlds/Covan.db
+03/30/2023 22:33:24: Steam writing file chunks 1 / 1, (3172462 bytes)
+03/30/2023 22:33:24: World save writing finished
+03/30/2023 22:33:24: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 22:33:24: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:33:24: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 22:33:24: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:33:24: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 22:33:24: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:33:24: Considering autobackup. World time: 1459,8, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:33:24: No autobackup needed yet...
+03/30/2023 22:33:24: World saved ( 263,9093ms )
+03/30/2023 22:33:24: Considering autobackup. World time: 1459,8, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:33:24: No autobackup needed yet...
+03/30/2023 22:33:25: Found selected Continue
+03/30/2023 22:33:30: Loading dungeon
+03/30/2023 22:33:30: Dungeon loaded 29
+03/30/2023 22:33:30: Dungeon load time 17,0653 ms
+03/30/2023 22:33:36: Loading dungeon
+03/30/2023 22:33:36: Dungeon loaded 29
+03/30/2023 22:33:36: Dungeon load time 16,4285 ms
+03/30/2023 22:33:44: Queue unlock msg:$msg_newmaterial:$item_flint
+03/30/2023 22:34:24: Queue unlock msg:$msg_newmaterial:$item_necktail
+03/30/2023 22:34:32: Loading dungeon
+03/30/2023 22:34:32: Dungeon loaded 29
+03/30/2023 22:34:32: Dungeon load time 17,92 ms
+03/30/2023 22:34:39: Setting selected recipe 1
+03/30/2023 22:34:39: UI Group status changed root = True
+03/30/2023 22:34:39: UI Group status changed Player = True
+03/30/2023 22:34:48: Valid True
+03/30/2023 22:34:48: On death False
+03/30/2023 22:34:56: Loading dungeon
+03/30/2023 22:34:56: Dungeon loaded 28
+03/30/2023 22:34:56: Dungeon load time 14,0746 ms
+03/30/2023 22:34:57: Spawned Deer x 2
+03/30/2023 22:34:57: Spawned Boar x 3
+03/30/2023 22:34:57: Spawned Seagal x 1
+03/30/2023 22:34:57: Spawned Seagal x 1
+03/30/2023 22:35:00: Loading dungeon
+03/30/2023 22:35:00: Dungeon loaded 29
+03/30/2023 22:35:00: Dungeon load time 24,6729 ms
+03/30/2023 22:35:05: Im still nto the owner
+03/30/2023 22:35:05: Im still nto the owner
+03/30/2023 22:35:05: Im still nto the owner
+03/30/2023 22:35:05: Im still nto the owner
+03/30/2023 22:35:05: Im still nto the owner
+03/30/2023 22:35:05: Im finally the owner
+03/30/2023 22:35:07: Im still nto the owner
+03/30/2023 22:35:07: Im still nto the owner
+03/30/2023 22:35:07: Im still nto the owner
+03/30/2023 22:35:07: Im finally the owner
+03/30/2023 22:35:19: Im still nto the owner
+03/30/2023 22:35:19: Im still nto the owner
+03/30/2023 22:35:19: Im still nto the owner
+03/30/2023 22:35:19: Im still nto the owner
+03/30/2023 22:35:19: Im still nto the owner
+03/30/2023 22:35:19: Im finally the owner
+03/30/2023 22:35:22: Im finally the owner
+03/30/2023 22:35:30: Im still nto the owner
+03/30/2023 22:35:30: Im still nto the owner
+03/30/2023 22:35:30: Im still nto the owner
+03/30/2023 22:35:30: Im still nto the owner
+03/30/2023 22:35:31: Im finally the owner
+03/30/2023 22:38:03: Queue unlock msg:$msg_newmaterial:$item_beechseeds
+03/30/2023 22:38:05: Queue unlock msg:$msg_newmaterial:$item_feathers
+03/30/2023 22:39:38: Starting music morning
+03/30/2023 22:39:53: Loading dungeon
+03/30/2023 22:39:53: Dungeon loaded 29
+03/30/2023 22:39:53: Dungeon load time 18,5944 ms
+03/30/2023 22:40:08: Loading dungeon
+03/30/2023 22:40:08: Dungeon loaded 29
+03/30/2023 22:40:08: Dungeon load time 17,8377 ms
+03/30/2023 22:40:12: Starting music meadows
+03/30/2023 22:40:29: Setting selected recipe 1
+03/30/2023 22:40:30: UI Group status changed root = True
+03/30/2023 22:40:30: UI Group status changed Player = True
+03/30/2023 22:40:41: Setting selected recipe 1
+03/30/2023 22:40:51: Setting selected recipe 1
+03/30/2023 22:40:51: UI Group status changed root = True
+03/30/2023 22:40:51: UI Group status changed Player = True
+03/30/2023 22:40:54: Setting selected recipe 1
+03/30/2023 22:41:00: UI Group status changed root = False
+03/30/2023 22:41:00: Found selected Texts
+03/30/2023 22:41:00: UI Group status changed Player = False
+03/30/2023 22:41:03: UI Group status changed root = True
+03/30/2023 22:41:03: UI Group status changed Player = True
+03/30/2023 22:41:25: Spawned Deer x 1
+03/30/2023 22:41:26: Spawned Fish1 x 2
+03/30/2023 22:41:26: Spawned Fish1 x 3
+03/30/2023 22:41:26: Loading dungeon
+03/30/2023 22:41:26: Dungeon loaded 28
+03/30/2023 22:41:26: Dungeon load time 15,68 ms
+03/30/2023 22:41:28: Loading dungeon
+03/30/2023 22:41:28: Dungeon loaded 29
+03/30/2023 22:41:28: Dungeon load time 17,5118 ms
+03/30/2023 22:41:40: Queue unlock msg:$msg_newmaterial:$item_boar_meat
+03/30/2023 22:41:41: Queue unlock msg:$msg_newmaterial:$item_leatherscraps
+03/30/2023 22:42:33: Setting selected recipe 1
+03/30/2023 22:42:33: UI Group status changed root = True
+03/30/2023 22:42:33: UI Group status changed Player = True
+03/30/2023 22:42:37: Loading dungeon
+03/30/2023 22:42:37: Dungeon loaded 28
+03/30/2023 22:42:37: Dungeon load time 16,4267 ms
+03/30/2023 22:42:41: Im still nto the owner
+03/30/2023 22:42:41: Im finally the owner
+03/30/2023 22:42:57: Setting selected recipe 1
+03/30/2023 22:42:57: UI Group status changed root = True
+03/30/2023 22:42:57: UI Group status changed Player = True
+03/30/2023 22:43:00: Drop item $item_axe_stone
+03/30/2023 22:43:00: drop all 1  1
+03/30/2023 22:43:00: Setting selected recipe 1
+03/30/2023 22:43:05: Setting selected recipe 1
+03/30/2023 22:43:11: Setting selected recipe 0
+03/30/2023 22:43:16: Setting selected recipe 0
+03/30/2023 22:43:19: Added to stack50 8
+03/30/2023 22:43:28: Setting selected recipe 3
+03/30/2023 22:43:29: Spawned Fish2 x 2
+03/30/2023 22:43:32: Setting selected recipe 3
+03/30/2023 22:43:34: Item is not in this container
+03/30/2023 22:43:34: Setting selected recipe 3
+03/30/2023 22:43:35: Drop item $item_torch
+03/30/2023 22:43:35: drop all 1  1
+03/30/2023 22:43:35: Setting selected recipe 3
+03/30/2023 22:43:41: UI Group status changed MenuRoot = True
+03/30/2023 22:43:45: Current res 1920x1080     1920x1080
+03/30/2023 22:43:45: UI Group status changed MenuRoot = False
+03/30/2023 22:43:45: Found selected Settings
+03/30/2023 22:44:09: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 846 unused Assets to reduce memory usage. Loaded Objects now: 1747808.
+Total: 529.630800 ms (FindLiveObjects: 113.599400 ms CreateObjectMapping: 35.802400 ms MarkObjects: 377.865600 ms  DeleteObjects: 2.361700 ms)
+
+03/30/2023 22:44:12: UI Group status changed MenuRoot = True
+03/30/2023 22:44:12: Found selected Continue
+03/30/2023 22:44:15: Uncompressed size 8388617
+03/30/2023 22:44:15: Compressed size 8396
+saving started
+03/30/2023 22:44:15: Considering autobackup. World time: 2075,76, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:44:15: No autobackup needed yet...
+saving finished
+03/30/2023 22:44:15: clone 48
+03/30/2023 22:44:15: World save writing starting
+03/30/2023 22:44:15: World save writing started
+03/30/2023 22:44:15: Saved 26407 zdos
+03/30/2023 22:44:15: World save writing finishing
+03/30/2023 22:44:15: Cloud Save: 3198705 bytes. /worlds/Covan.db
+03/30/2023 22:44:15: Steam writing file chunks 1 / 1, (3198705 bytes)
+03/30/2023 22:44:15: World save writing finished
+03/30/2023 22:44:15: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 22:44:15: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:44:15: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 22:44:15: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:44:15: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 22:44:15: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 22:44:15: Considering autobackup. World time: 2075,76, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:44:15: No autobackup needed yet...
+03/30/2023 22:44:15: World saved ( 247,3534ms )
+03/30/2023 22:44:15: Considering autobackup. World time: 2075,76, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 22:44:15: No autobackup needed yet...
+03/30/2023 22:44:17: Found selected Continue
+03/30/2023 22:44:59: Setting selected recipe 3
+03/30/2023 22:44:59: UI Group status changed root = True
+03/30/2023 22:44:59: UI Group status changed Player = True
+03/30/2023 22:45:08: Setting selected recipe 3
+03/30/2023 22:45:25: Update PlayFab entity token
+03/30/2023 22:45:34: UI Group status changed MenuRoot = True
+03/30/2023 22:45:36: Current res 1920x1080     1920x1080
+03/30/2023 22:45:36: UI Group status changed MenuRoot = False
+03/30/2023 22:45:36: Found selected Settings
+03/30/2023 22:45:55: Current res 1920x1080     1920x1080
+03/30/2023 22:45:55: UI Group status changed MenuRoot = True
+03/30/2023 22:45:55: Found selected Continue
+03/30/2023 22:45:56: Found selected Continue
+03/30/2023 22:46:03: Setting selected recipe 3
+03/30/2023 22:46:03: UI Group status changed root = True
+03/30/2023 22:46:03: UI Group status changed Player = True
+03/30/2023 22:46:15: UI Group status changed MenuRoot = True
+03/30/2023 22:46:17: Current res 1920x1080     1920x1080
+03/30/2023 22:46:17: UI Group status changed MenuRoot = False
+03/30/2023 22:46:17: Found selected Settings
+03/30/2023 22:46:29: Skipping unloading unused assets
+03/30/2023 22:46:38: Binding key BuildMenu
+03/30/2023 22:46:48: Binding key Sit
+03/30/2023 22:46:50: Binding key AutoRun
+03/30/2023 22:46:54: Binding key ToggleWalk
+03/30/2023 22:46:55: Binding key AutoRun
+03/30/2023 22:46:57: Binding key AutoRun
+03/30/2023 22:47:28: Current res 1920x1080     1920x1080
+03/30/2023 22:47:28: Found selected ResetControlls
+03/30/2023 22:47:28: UI Group status changed MenuRoot = True
+03/30/2023 22:47:29: Found selected Continue
+03/30/2023 22:47:42: Setting selected recipe 3
+03/30/2023 22:47:42: UI Group status changed root = True
+03/30/2023 22:47:42: UI Group status changed Player = True
+03/30/2023 22:47:50: UI Group status changed root = False
+03/30/2023 22:47:50: Found selected Skills
+03/30/2023 22:47:50: UI Group status changed Player = False
+03/30/2023 22:47:51: UI Group status changed root = True
+03/30/2023 22:47:51: UI Group status changed Player = True
+03/30/2023 22:47:54: SIZE 0
+03/30/2023 22:47:54: UI Group status changed root = False
+03/30/2023 22:47:54: Found selected Trophies
+03/30/2023 22:47:54: UI Group status changed Player = False
+03/30/2023 22:47:54: UI Group status changed root = True
+03/30/2023 22:47:54: UI Group status changed Player = True
+03/30/2023 22:48:31: Disabling PlayerBase  character_trigger
+03/30/2023 22:48:47: Queue unlock msg:$msg_newstation:$piece_workbench
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_chest_rags
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_legs_rags
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_arrow_wood
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_axe_flint
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_bow
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_hoe
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_knife_flint
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_shield_wood
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_shield_woodtower
+03/30/2023 22:48:47: Queue unlock msg:$msg_newrecipe:$item_spear_flint
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_workbench_ext1
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodfloor1x1
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodfloor2x2
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodstair
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodstepladder
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallquarter
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallhalf
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwall
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallroof
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallroof_upsidedown
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45_upsidedown
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodroof26
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodrooftop
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodroof45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodrooftop45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodpole
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodpole2
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodbeam1
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodbeam2
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodbeam26
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodbeam45
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_wooddoor
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodgate
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_woodfence
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_stakewall
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_bed
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_chestwood
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$piece_groundtorchwood
+03/30/2023 22:48:47: Queue unlock msg:$msg_newpiece:$ship_raft
+03/30/2023 22:48:47: Disabling PlayerBase  character_trigger
+03/30/2023 22:48:47: Placed piece_workbench
+03/30/2023 22:48:47: Disabling PlayerBase  character_trigger
+03/30/2023 22:48:59: Disabling collider_block  blocker
+03/30/2023 22:49:08: Placed piece_cookingstation
+03/30/2023 22:49:08: Disabling collider_block  blocker
+03/30/2023 22:49:19: Disabling PlayerBase  character_trigger
+03/30/2023 22:49:36: Placed fire_pit
+03/30/2023 22:49:36: Disabling PlayerBase  character_trigger
+03/30/2023 22:49:36: Disabling PlayerBase  character_trigger
+03/30/2023 22:49:54: Disabling PlayerBase  character_trigger
+03/30/2023 22:50:06: Disabling PlayerBase  character_trigger
+03/30/2023 22:50:10: Disabling collider_block  blocker
+03/30/2023 22:50:15: Placed piece_cookingstation
+03/30/2023 22:50:15: Disabling collider_block  blocker
+03/30/2023 22:50:53: Queue unlock msg:$msg_newitem:$item_boar_meat_cooked
+03/30/2023 22:50:54: Queue unlock msg:$msg_newitem:$item_necktailgrilled
+03/30/2023 22:51:05: Disabling collider_block  blocker
+03/30/2023 22:51:09: Disabling collider_block  blocker
+03/30/2023 22:51:20: Disabling collider_block  blocker
+03/30/2023 22:51:22: Disabling PlayerBase  character_trigger
+03/30/2023 22:51:41: Placed piece_workbench
+03/30/2023 22:51:41: Disabling PlayerBase  character_trigger
+03/30/2023 22:51:50: Disabling PlayerBase  character_trigger
+03/30/2023 22:51:50: Disabling PlayerBase  character_trigger
+03/30/2023 22:51:53: Setting selected recipe 3
+03/30/2023 22:51:53: UI Group status changed root = True
+03/30/2023 22:51:53: UI Group status changed Player = True
+03/30/2023 22:51:56: Disabling PlayerBase  character_trigger
+03/30/2023 22:52:19: Disabling PlayerBase  character_trigger
+03/30/2023 22:52:21: Disabling PlayerBase  character_trigger
+03/30/2023 22:52:23: Setting selected recipe 3
+03/30/2023 22:52:23: UI Group status changed root = True
+03/30/2023 22:52:23: UI Group status changed Player = True
+03/30/2023 22:52:28: Added to stack50 4
+03/30/2023 22:52:28: Disabling PlayerBase  character_trigger
+03/30/2023 22:52:28: Disabling PlayerBase  character_trigger
+03/30/2023 22:52:55: Spawned Greyling x 1
+03/30/2023 22:52:56: Loading dungeon
+03/30/2023 22:52:56: Dungeon loaded 29
+03/30/2023 22:52:56: Dungeon load time 19,199 ms
+03/30/2023 22:53:00: Loading dungeon
+03/30/2023 22:53:00: Dungeon loaded 28
+03/30/2023 22:53:00: Dungeon load time 13,9451 ms
+03/30/2023 22:53:21: Spawned Boar x 1
+03/30/2023 22:53:21: Spawned Seagal x 2
+03/30/2023 22:53:21: Spawned Greyling x 1
+03/30/2023 22:53:42: Im still nto the owner
+03/30/2023 22:53:42: Im still nto the owner
+03/30/2023 22:53:43: Im still nto the owner
+03/30/2023 22:53:43: Im still nto the owner
+03/30/2023 22:53:43: Im still nto the owner
+03/30/2023 22:53:43: Im finally the owner
+03/30/2023 22:53:53: Spawned Fish1 x 1
+03/30/2023 22:53:53: Spawned Fish2 x 2
+03/30/2023 22:53:54: Im still nto the owner
+03/30/2023 22:53:54: Im still nto the owner
+03/30/2023 22:53:55: Im still nto the owner
+03/30/2023 22:53:55: Im finally the owner
+03/30/2023 22:53:55: Setting selected recipe 3
+03/30/2023 22:53:55: UI Group status changed root = True
+03/30/2023 22:53:55: UI Group status changed Player = True
+03/30/2023 22:54:05: Spawned Seagal x 1
+Look rotation viewing vector is zero
+03/30/2023 22:54:41: Im still nto the owner
+03/30/2023 22:54:41: Im still nto the owner
+03/30/2023 22:54:41: Im finally the owner
+03/30/2023 22:54:51: Im still nto the owner
+03/30/2023 22:54:51: Im still nto the owner
+03/30/2023 22:54:51: Im still nto the owner
+03/30/2023 22:54:51: Im finally the owner
+03/30/2023 22:55:52: Placed locations in zone -12,-3  duration 2,9869 ms
+03/30/2023 22:55:52: Placed locations in zone -12,-2  duration 1,4966 ms
+03/30/2023 22:55:53: Placed locations in zone -12,0  duration 28,8783 ms
+03/30/2023 22:55:55: Spawned Deer x 1
+03/30/2023 22:55:55: Spawned Greyling x 1
+03/30/2023 22:55:57: Spawned Greydwarf x 3
+03/30/2023 22:56:07: Valid True
+03/30/2023 22:56:07: On death False
+03/30/2023 22:57:25: UI Group status changed MenuRoot = True
+03/30/2023 22:57:31: Found selected Continue
+03/30/2023 22:57:32: Starting respawn
+03/30/2023 22:57:32: Local player destroyed
+03/30/2023 22:57:32: tip:$loadscreen_tip17
+03/30/2023 22:57:35: Skipping unloading unused assets
+03/30/2023 22:57:41: DiscoverClosestLocation
+03/30/2023 22:57:41: Found location of type Eikthyrnir
+03/30/2023 22:57:42: Stopped music meadows at 7489044
+03/30/2023 22:57:43: Starting music meadows
+03/30/2023 22:57:43: Resumed music meadows at 7489044
+03/30/2023 22:57:44: Left click
+03/30/2023 22:57:45: Left click
+03/30/2023 22:57:56: DiscoverClosestLocation
+03/30/2023 22:57:56: Found location of type Eikthyrnir
+03/30/2023 22:58:11: UI Group status changed MenuRoot = True
+03/30/2023 22:58:13: Current res 1920x1080     1920x1080
+03/30/2023 22:58:13: UI Group status changed MenuRoot = False
+03/30/2023 22:58:13: Found selected Settings
+03/30/2023 22:58:17: UI Group status changed Controls = True
+03/30/2023 22:58:18: UI Group status changed Misc = True
+03/30/2023 22:58:24: Current res 1920x1080     1920x1080
+03/30/2023 22:58:24: UI Group status changed MenuRoot = True
+03/30/2023 22:58:24: Found selected Continue
+03/30/2023 22:58:26: Found selected Continue
+03/30/2023 22:58:30: Spawned Seagal x 1
+03/30/2023 22:58:31: Loading dungeon
+03/30/2023 22:58:31: Dungeon loaded 29
+03/30/2023 22:58:31: Dungeon load time 17,1728 ms
+03/30/2023 22:58:39: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 22:58:47: Im finally the owner
+03/30/2023 22:58:59: Im still nto the owner
+03/30/2023 22:58:59: Im finally the owner
+03/30/2023 22:59:09: Im still nto the owner
+03/30/2023 22:59:09: Im still nto the owner
+03/30/2023 22:59:09: Im still nto the owner
+03/30/2023 22:59:09: Im still nto the owner
+03/30/2023 22:59:09: Im finally the owner
+03/30/2023 22:59:11: Im still nto the owner
+03/30/2023 22:59:11: Im finally the owner
+03/30/2023 22:59:13: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 22:59:17: Im finally the owner
+03/30/2023 22:59:30: Im still nto the owner
+03/30/2023 22:59:30: Im finally the owner
+03/30/2023 22:59:30: Im still nto the owner
+03/30/2023 22:59:30: Im still nto the owner
+03/30/2023 22:59:30: Im still nto the owner
+03/30/2023 22:59:31: Im still nto the owner
+03/30/2023 22:59:31: Im still nto the owner
+03/30/2023 22:59:31: Im finally the owner
+03/30/2023 22:59:42: Im still nto the owner
+03/30/2023 22:59:42: Im still nto the owner
+03/30/2023 22:59:42: Im still nto the owner
+03/30/2023 22:59:42: Im still nto the owner
+03/30/2023 22:59:42: Im still nto the owner
+03/30/2023 22:59:42: Im finally the owner
+03/30/2023 22:59:59: Loading dungeon
+03/30/2023 22:59:59: Dungeon loaded 28
+03/30/2023 22:59:59: Dungeon load time 13,258 ms
+03/30/2023 23:00:15: Spawned Boar x 1
+03/30/2023 23:00:18: Grave should fit in inventory, loot all
+03/30/2023 23:00:18: Player -35677694 wants to takeall from Player_tombstone(Clone)   im: -35677694
+03/30/2023 23:00:27: Im still nto the owner
+03/30/2023 23:00:27: Im still nto the owner
+03/30/2023 23:00:27: Im still nto the owner
+03/30/2023 23:00:27: Im still nto the owner
+03/30/2023 23:00:27: Im still nto the owner
+03/30/2023 23:00:27: Im finally the owner
+03/30/2023 23:00:45: Spawned Fish2 x 1
+03/30/2023 23:01:00: Setting selected recipe 3
+03/30/2023 23:01:00: UI Group status changed root = True
+03/30/2023 23:01:00: UI Group status changed Player = True
+03/30/2023 23:01:10: Valid True
+03/30/2023 23:01:10: On death False
+03/30/2023 23:01:12: Valid True
+03/30/2023 23:01:12: On death False
+03/30/2023 23:01:15: Setting selected recipe 3
+03/30/2023 23:01:15: UI Group status changed root = True
+03/30/2023 23:01:15: UI Group status changed Player = True
+03/30/2023 23:01:41: Starting respawn
+03/30/2023 23:01:41: Local player destroyed
+03/30/2023 23:01:41: tip:$loadscreen_tip10
+03/30/2023 23:01:43: Skipping unloading unused assets
+03/30/2023 23:01:51: Stopped music meadows at 8722502
+03/30/2023 23:01:51: Starting music meadows
+03/30/2023 23:01:51: Resumed music meadows at 8722502
+03/30/2023 23:01:54: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:02:15: Loading dungeon
+03/30/2023 23:02:15: Dungeon loaded 29
+03/30/2023 23:02:15: Dungeon load time 17,0153 ms
+03/30/2023 23:02:25: Loading dungeon
+03/30/2023 23:02:25: Dungeon loaded 28
+03/30/2023 23:02:25: Dungeon load time 35,1935 ms
+03/30/2023 23:02:42: Player -35677694 wants to open Player_tombstone(Clone)   im: -35677694
+03/30/2023 23:02:42: Setting selected recipe 3
+03/30/2023 23:02:42: UI Group status changed root = True
+03/30/2023 23:02:42: UI Group status changed Player = True
+03/30/2023 23:02:42: UI Group status changed Container = False
+03/30/2023 23:02:43: Player -35677694 wants to open Player_tombstone(Clone)   im: -35677694
+03/30/2023 23:02:43: Setting selected recipe 3
+03/30/2023 23:02:43: UI Group status changed root = True
+03/30/2023 23:02:43: UI Group status changed Player = True
+03/30/2023 23:02:55: Drop item $item_wood
+03/30/2023 23:02:55: drop all 21  21
+03/30/2023 23:02:55: Setting selected recipe 3
+03/30/2023 23:03:04: Loading dungeon
+03/30/2023 23:03:04: Dungeon loaded 29
+03/30/2023 23:03:04: Dungeon load time 14,9341 ms
+03/30/2023 23:03:07: Loading dungeon
+03/30/2023 23:03:07: Dungeon loaded 28
+03/30/2023 23:03:07: Dungeon load time 13,7316 ms
+03/30/2023 23:03:09: Starting music evening
+03/30/2023 23:03:10: Stopped music meadows at 2511409
+03/30/2023 23:03:16: Loading dungeon
+03/30/2023 23:03:16: Dungeon loaded 28
+03/30/2023 23:03:16: Dungeon load time 13,4162 ms
+03/30/2023 23:03:50: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:06: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:07: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:27: Placed piece_workbench
+03/30/2023 23:04:27: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:32: Disabling collider_block  blocker
+03/30/2023 23:04:35: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:40: Placed fire_pit
+03/30/2023 23:04:40: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:40: Disabling PlayerBase  character_trigger
+03/30/2023 23:04:42: Disabling collider_block  blocker
+03/30/2023 23:04:46: Placed piece_cookingstation
+03/30/2023 23:04:46: Disabling collider_block  blocker
+03/30/2023 23:05:10: Disabling collider_block  blocker
+03/30/2023 23:05:39: Update PlayFab entity token
+03/30/2023 23:05:42: Placed wood_floor
+03/30/2023 23:05:44: Placed wood_floor
+03/30/2023 23:05:46: Placed wood_floor
+03/30/2023 23:05:48: Placed wood_floor
+03/30/2023 23:05:52: Placed wood_floor
+03/30/2023 23:05:56: Placed wood_floor
+03/30/2023 23:06:05: Placed wood_floor
+03/30/2023 23:06:08: Placed wood_floor
+03/30/2023 23:06:11: Placed wood_floor
+03/30/2023 23:06:13: Placed wood_floor
+03/30/2023 23:06:34: Placed wood_pole2
+03/30/2023 23:07:07: Placed wood_pole2
+03/30/2023 23:07:12: Placed wood_pole2
+03/30/2023 23:07:40: Placed wood_pole2
+03/30/2023 23:08:06: Placed wood_pole2
+03/30/2023 23:08:09: Placed wood_pole2
+03/30/2023 23:09:14: Disabling PlayerBase  character_trigger
+03/30/2023 23:09:15: Disabling collider_block  blocker
+03/30/2023 23:09:16: Disabling PlayerBase  character_trigger
+03/30/2023 23:09:28: Placed piece_workbench
+03/30/2023 23:09:28: Disabling PlayerBase  character_trigger
+03/30/2023 23:09:39: Disabling PlayerBase  character_trigger
+03/30/2023 23:09:56: Placed wood_pole2
+03/30/2023 23:09:58: Placed wood_pole2
+03/30/2023 23:11:09: Placed wood_beam
+03/30/2023 23:11:11: Placed wood_beam
+03/30/2023 23:11:19: Placed wood_beam
+03/30/2023 23:11:21: Placed wood_beam
+03/30/2023 23:11:38: Skipping unloading unused assets
+03/30/2023 23:11:54: Placed wood_pole
+03/30/2023 23:12:00: Placed wood_pole2
+03/30/2023 23:12:09: Placed wood_pole
+03/30/2023 23:12:10: Starting music morning
+03/30/2023 23:12:24: Placed wood_pole2
+03/30/2023 23:12:44: Starting music meadows
+03/30/2023 23:12:46: Placed wood_floor
+03/30/2023 23:12:48: Placed wood_floor
+03/30/2023 23:12:50: Placed wood_floor
+03/30/2023 23:12:53: Placed wood_floor
+03/30/2023 23:12:55: Placed wood_floor
+03/30/2023 23:12:56: Placed wood_floor
+03/30/2023 23:13:46: Setting selected recipe 3
+03/30/2023 23:13:46: UI Group status changed root = True
+03/30/2023 23:13:46: UI Group status changed Player = True
+03/30/2023 23:14:16: Uncompressed size 8388735
+03/30/2023 23:14:16: Compressed size 8515
+saving started
+03/30/2023 23:14:16: Considering autobackup. World time: 3758,04, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:14:16: No autobackup needed yet...
+saving finished
+03/30/2023 23:14:16: clone 21
+03/30/2023 23:14:16: World save writing starting
+03/30/2023 23:14:16: World save writing started
+03/30/2023 23:14:16: Saved 28314 zdos
+03/30/2023 23:14:16: World save writing finishing
+03/30/2023 23:14:16: Cloud Save: 3448872 bytes. /worlds/Covan.db
+03/30/2023 23:14:16: Steam writing file chunks 1 / 1, (3448872 bytes)
+03/30/2023 23:14:16: World save writing finished
+03/30/2023 23:14:16: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 23:14:16: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:14:16: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 23:14:16: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:14:16: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 23:14:16: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:14:16: Considering autobackup. World time: 3758,46, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:14:16: No autobackup needed yet...
+03/30/2023 23:14:16: World saved ( 260,6328ms )
+03/30/2023 23:14:16: Considering autobackup. World time: 3758,46, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:14:16: No autobackup needed yet...
+03/30/2023 23:14:53: Starting respawn
+03/30/2023 23:14:53: Local player destroyed
+03/30/2023 23:14:53: tip:$loadscreen_tip04
+03/30/2023 23:14:55: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 11195 unused Assets to reduce memory usage. Loaded Objects now: 1744626.
+Total: 567.482100 ms (FindLiveObjects: 113.438800 ms CreateObjectMapping: 37.780200 ms MarkObjects: 387.054900 ms  DeleteObjects: 29.207800 ms)
+
+03/30/2023 23:14:59: Spawned Boar x 1
+03/30/2023 23:15:04: Stopped music meadows at 6152831
+03/30/2023 23:15:04: Starting music meadows
+03/30/2023 23:15:04: Resumed music meadows at 6152831
+03/30/2023 23:15:06: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:15:11: Loading dungeon
+03/30/2023 23:15:11: Dungeon loaded 29
+03/30/2023 23:15:11: Dungeon load time 17,1733 ms
+03/30/2023 23:15:12: Spawned Fish2 x 1
+03/30/2023 23:15:23: Im still nto the owner
+03/30/2023 23:15:23: Im still nto the owner
+03/30/2023 23:15:23: Im still nto the owner
+03/30/2023 23:15:23: Im still nto the owner
+03/30/2023 23:15:23: Im still nto the owner
+03/30/2023 23:15:23: Im still nto the owner
+03/30/2023 23:15:23: Im finally the owner
+03/30/2023 23:15:24: Im still nto the owner
+03/30/2023 23:15:24: Im still nto the owner
+03/30/2023 23:15:24: Im still nto the owner
+03/30/2023 23:15:24: Im finally the owner
+03/30/2023 23:15:31: Im still nto the owner
+03/30/2023 23:15:31: Im still nto the owner
+03/30/2023 23:15:31: Im finally the owner
+03/30/2023 23:16:09: Setting selected recipe 1
+03/30/2023 23:16:09: UI Group status changed root = True
+03/30/2023 23:16:09: UI Group status changed Player = True
+03/30/2023 23:16:12: Setting selected recipe 2
+03/30/2023 23:16:27: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:16:51: Setting selected recipe 2
+03/30/2023 23:16:51: UI Group status changed root = True
+03/30/2023 23:16:51: UI Group status changed Player = True
+03/30/2023 23:16:55: Setting selected recipe 2
+03/30/2023 23:16:55: UI Group status changed root = True
+03/30/2023 23:16:55: UI Group status changed Player = True
+03/30/2023 23:17:04: Setting selected recipe 2
+03/30/2023 23:17:04: UI Group status changed root = True
+03/30/2023 23:17:04: UI Group status changed Player = True
+03/30/2023 23:17:21: Setting selected recipe 2
+03/30/2023 23:17:21: UI Group status changed root = True
+03/30/2023 23:17:21: UI Group status changed Player = True
+03/30/2023 23:17:58: Setting selected recipe 0
+03/30/2023 23:17:58: UI Group status changed root = True
+03/30/2023 23:17:58: UI Group status changed Player = True
+03/30/2023 23:18:03: Setting selected recipe 1
+03/30/2023 23:18:19: Loading dungeon
+03/30/2023 23:18:19: Dungeon loaded 29
+03/30/2023 23:18:19: Dungeon load time 16,4545 ms
+03/30/2023 23:18:25: Setting selected recipe 1
+03/30/2023 23:18:25: UI Group status changed root = True
+03/30/2023 23:18:25: UI Group status changed Player = True
+03/30/2023 23:18:58: Spawned Greyling x 1
+03/30/2023 23:19:30: Setting selected recipe 0
+03/30/2023 23:19:30: UI Group status changed root = True
+03/30/2023 23:19:30: UI Group status changed Player = True
+03/30/2023 23:19:39: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:20:12: Queue unlock msg:$msg_newmaterial:$item_deer_meat
+03/30/2023 23:20:12: Queue unlock msg:$msg_newmaterial:$item_deerhide
+03/30/2023 23:20:38: Spawned Boar x 1
+03/30/2023 23:20:38: Spawned Greyling x 1
+03/30/2023 23:20:38: Loading dungeon
+03/30/2023 23:20:38: Dungeon loaded 28
+03/30/2023 23:20:38: Dungeon load time 14,1868 ms
+03/30/2023 23:21:24: Starting respawn
+03/30/2023 23:21:24: Local player destroyed
+03/30/2023 23:21:24: tip:$loadscreen_tip12
+03/30/2023 23:21:27: Skipping unloading unused assets
+03/30/2023 23:21:34: Stopped music meadows at 3967491
+03/30/2023 23:21:34: Starting music meadows
+03/30/2023 23:21:34: Resumed music meadows at 3967491
+03/30/2023 23:22:04: Update PlayFab entity token
+03/30/2023 23:22:38: Loading dungeon
+03/30/2023 23:22:38: Dungeon loaded 10
+03/30/2023 23:22:38: Dungeon load time 32,8258 ms
+03/30/2023 23:22:40: Spawned Deer x 1
+03/30/2023 23:22:40: Spawned Greyling x 1
+03/30/2023 23:22:40: Spawned Greyling x 1
+03/30/2023 23:22:49: Setting selected recipe 0
+03/30/2023 23:22:49: UI Group status changed root = True
+03/30/2023 23:22:49: UI Group status changed Player = True
+03/30/2023 23:22:53: Setting selected recipe 0
+03/30/2023 23:23:08: UI Group status changed MenuRoot = True
+03/30/2023 23:23:10: Current res 1920x1080     1920x1080
+03/30/2023 23:23:10: UI Group status changed MenuRoot = False
+03/30/2023 23:23:10: Found selected Settings
+03/30/2023 23:23:15: UI Group status changed MenuRoot = True
+03/30/2023 23:23:15: Found selected Continue
+03/30/2023 23:23:18: Uncompressed size 8388813
+03/30/2023 23:23:18: Compressed size 8556
+saving started
+03/30/2023 23:23:18: Considering autobackup. World time: 4290,4, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:23:18: No autobackup needed yet...
+saving finished
+03/30/2023 23:23:18: clone 30
+03/30/2023 23:23:18: World save writing starting
+03/30/2023 23:23:18: World save writing started
+03/30/2023 23:23:18: Saved 28391 zdos
+03/30/2023 23:23:18: World save writing finishing
+03/30/2023 23:23:18: Cloud Save: 3487280 bytes. /worlds/Covan.db
+03/30/2023 23:23:18: Steam writing file chunks 1 / 1, (3487280 bytes)
+03/30/2023 23:23:18: World save writing finished
+03/30/2023 23:23:18: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 23:23:18: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:23:18: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 23:23:18: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:23:18: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 23:23:18: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:23:18: Considering autobackup. World time: 4290,4, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:23:18: No autobackup needed yet...
+03/30/2023 23:23:18: World saved ( 292,6789ms )
+03/30/2023 23:23:18: Considering autobackup. World time: 4290,4, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:23:18: No autobackup needed yet...
+03/30/2023 23:23:18: Found selected Continue
+03/30/2023 23:23:30: Loading dungeon
+03/30/2023 23:23:30: Dungeon loaded 29
+03/30/2023 23:23:30: Dungeon load time 16,4292 ms
+03/30/2023 23:24:36: Setting selected recipe 0
+03/30/2023 23:24:36: UI Group status changed root = True
+03/30/2023 23:24:36: UI Group status changed Player = True
+03/30/2023 23:25:16: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:25:44: Starting respawn
+03/30/2023 23:25:44: Local player destroyed
+03/30/2023 23:25:44: tip:$loadscreen_tip20
+03/30/2023 23:25:46: Skipping unloading unused assets
+03/30/2023 23:25:54: Stopped music meadows at 5725915
+03/30/2023 23:25:54: Starting music meadows
+03/30/2023 23:25:54: Resumed music meadows at 5725915
+03/30/2023 23:25:55: UI Group status changed MenuRoot = True
+03/30/2023 23:25:57: UI Group status changed MenuRoot = False
+03/30/2023 23:25:58: Shuting down
+03/30/2023 23:25:58: Uncompressed size 8388852
+03/30/2023 23:25:58: Compressed size 8573
+saving started
+03/30/2023 23:25:58: Considering autobackup. World time: 4447,22, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:25:58: No autobackup needed yet...
+saving finished
+03/30/2023 23:25:58: ZNet Shutdown
+03/30/2023 23:25:58: clone 21
+03/30/2023 23:25:58: World save writing starting
+03/30/2023 23:25:58: World save writing started
+03/30/2023 23:25:58: Saved 28371 zdos
+03/30/2023 23:25:58: World save writing finishing
+03/30/2023 23:25:58: Cloud Save: 3495006 bytes. /worlds/Covan.db
+03/30/2023 23:25:58: Steam writing file chunks 1 / 1, (3495006 bytes)
+03/30/2023 23:25:58: World save writing finished
+03/30/2023 23:25:58: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 23:25:58: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:25:58: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 23:25:58: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:25:58: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 23:25:59: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:25:59: Considering autobackup. World time: 4447,22, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:25:59: No autobackup needed yet...
+03/30/2023 23:25:59: World saved ( 223,573ms )
+03/30/2023 23:25:59: Considering autobackup. World time: 4447,22, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:25:59: No autobackup needed yet...
+03/30/2023 23:25:59: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+03/30/2023 23:25:59: Sending disconnect msg
+03/30/2023 23:25:59: Found selected Button_yes
+03/30/2023 23:25:59: Local player destroyed
+
+Unloading 961 unused Assets to reduce memory usage. Loaded Objects now: 1672548.
+Total: 496.965900 ms (FindLiveObjects: 106.989900 ms CreateObjectMapping: 36.890900 ms MarkObjects: 350.394600 ms  DeleteObjects: 2.690300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+03/30/2023 23:25:59: ZNet OnDestroy
+03/30/2023 23:26:00: Net scene destroyed
+UnloadTime: 1146.997900 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+03/30/2023 23:26:00: Steam initialized, persona:Igruha
+03/30/2023 23:26:00: PlayFab custom ID set to "Steam_76561198987971986"
+03/30/2023 23:26:00: Using default prefs
+03/30/2023 23:26:00: Valheim version:0.214.300
+03/30/2023 23:26:00: Worldgenerator version setup:2
+03/30/2023 23:26:00: Render threading mode:MultiThreaded
+03/30/2023 23:26:00: Audioman already exist, destroying self
+03/30/2023 23:26:00: Checking for installed DLCs
+03/30/2023 23:26:00: DLC:beta installed:False
+
+Unloading 6243 unused Assets to reduce memory usage. Loaded Objects now: 140086.
+Total: 126.689500 ms (FindLiveObjects: 5.237000 ms CreateObjectMapping: 13.287900 ms MarkObjects: 101.545300 ms  DeleteObjects: 6.618800 ms)
+
+03/30/2023 23:26:01: Session auth respons callback
+03/30/2023 23:26:01: Ticket is System.Byte[] of length 360
+03/30/2023 23:26:01: Starting music menu
+03/30/2023 23:26:01: UI Group status changed Menu = True
+03/30/2023 23:26:01: Stopped music meadows at 6022266
+03/30/2023 23:26:02: UI Group status changed Menu = True
+03/30/2023 23:26:06: Found selected Start game
+03/30/2023 23:26:06: show character selection
+03/30/2023 23:26:11: UI Group status changed SelectCharacter = False
+03/30/2023 23:26:12: Remove character
+03/30/2023 23:26:12: UI Group status changed SelectCharacter = True
+03/30/2023 23:26:20: Cloud Save: 335 bytes. /characters/dee.fch.new
+03/30/2023 23:26:20: Steam writing file chunks 1 / 1, (335 bytes)
+03/30/2023 23:26:20: Steam Cloud Move: 335 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/30/2023 23:26:20: Steam writing file chunks 1 / 1, (335 bytes)
+03/30/2023 23:26:20: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:26:20: No autobackup needed yet...
+03/30/2023 23:26:20: Found selected Done
+03/30/2023 23:26:20: UI Group status changed SelectCharacter = True
+03/30/2023 23:26:25: There are still 1 DB files without a matching FWL file. Listing below:
+03/30/2023 23:26:25: worlds/Covan_backup_auto-20230330222953.db in cloud
+03/30/2023 23:26:25: Attempting to resolve potential matches...
+03/30/2023 23:26:25: Found 0 matches!
+03/30/2023 23:26:28: There are still 1 DB files without a matching FWL file. Listing below:
+03/30/2023 23:26:28: worlds/Covan_backup_auto-20230330222953.db in cloud
+03/30/2023 23:26:28: Attempting to resolve potential matches...
+03/30/2023 23:26:28: Found 0 matches!
+03/30/2023 23:26:58: show character selection
+03/30/2023 23:26:58: UI Group status changed SelectCharacter = True
+03/30/2023 23:27:05: OnCharacterStart
+03/30/2023 23:27:18: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 6.490500 ms
+03/30/2023 23:27:19: Steam initialized, persona:Igruha
+03/30/2023 23:27:19: PlayFab custom ID set to "Steam_76561198987971986"
+03/30/2023 23:27:19: Using default prefs
+03/30/2023 23:27:19: Loading player profile dee
+03/30/2023 23:27:19: isModded: False
+03/30/2023 23:27:19: Zonesystem Awake 342212
+03/30/2023 23:27:19: DungeonDB Awake 342212
+03/30/2023 23:27:19: Steam initialized, persona:Igruha
+03/30/2023 23:27:19: Worldgenerator version setup:2
+03/30/2023 23:27:20: Audioman already exist, destroying self
+03/30/2023 23:27:20: Checking for installed DLCs
+03/30/2023 23:27:20: DLC:beta installed:False
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 144027.
+Total: 112.066900 ms (FindLiveObjects: 5.493500 ms CreateObjectMapping: 12.863500 ms MarkObjects: 91.921200 ms  DeleteObjects: 1.788300 ms)
+
+03/30/2023 23:27:24: Zonesystem Start 342212
+03/30/2023 23:27:25: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+03/30/2023 23:27:25: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+03/30/2023 23:27:25: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+03/30/2023 23:27:25: DungeonDB Start 342212
+03/30/2023 23:27:25: ZRpc timeout set to 30s 
+03/30/2023 23:27:25: Load world: Covan (Covan)
+03/30/2023 23:27:25: Loading 28371 zdos , my id 868484279 data version:29
+03/30/2023 23:27:25: Loaded 6431 dead zdos
+03/30/2023 23:27:25: Removed 0 OLD generated ZDOS
+03/30/2023 23:27:25: Loaded 10109 locations
+03/30/2023 23:27:25: Unloading unused assets
+Unloading 10 Unused Serialized files (Serialized files now loaded: 1)
+03/30/2023 23:27:25: Starting respawn
+03/30/2023 23:27:25: Session auth respons callback
+03/30/2023 23:27:25: Ticket is System.Byte[] of length 360
+03/30/2023 23:27:32: tip:$loadscreen_tip13
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1662873.
+Total: 460.105500 ms (FindLiveObjects: 85.339500 ms CreateObjectMapping: 32.882500 ms MarkObjects: 340.916500 ms  DeleteObjects: 0.966600 ms)
+
+03/30/2023 23:27:36: Setting up valkyrie 
+03/30/2023 23:27:36: Show intro 342428
+03/30/2023 23:27:36: Show text YOU DIED:Давным-давно Всеотец Один объединил миры. Он поверг своих врагов и заточил их в десятый мир. Затем он обрубил ветви, которые соединяли эту тюрьму с Мировым Древом, и оставил ее дрейфовать в изгнании...
+
+
+
+На протяжении веков этот мир пребывал в спячке. Но он не исчез... Пока таяли льды, возникали и исчезали царства десятого мира без присмотра богов.
+
+
+
+Когда Один услышал, что его враги вновь набирают силу, окинул он взглядом Мидгард и послал своих валькирий отыскать в нем величайших воинов. Мертвые, они возродятся вновь…
+
+
+
+… в ВАЛЬХЕЙМЕ!
+03/30/2023 23:27:36: World pos (-781.9, 190.0, 712.0)   (-781.7, 189.4, 711.9)
+03/30/2023 23:27:36: Skipping unloading unused assets
+03/30/2023 23:27:36: Starting music intro
+03/30/2023 23:27:36: Minimap: Adding unique location (-322.2, 40.7, 57.3)
+03/30/2023 23:27:38: Placed locations in zone -16,15  duration 0,7479 ms
+03/30/2023 23:27:42: Placed locations in zone -8,8  duration 21,6565 ms
+03/30/2023 23:27:42: Placed locations in zone -9,9  duration 0,747 ms
+03/30/2023 23:27:44: Placed locations in zone -15,14  duration 0,7469 ms
+03/30/2023 23:27:44: Placed locations in zone -8,14  duration 10,4513 ms
+03/30/2023 23:27:45: Placed locations in zone -12,15  duration 2,2125 ms
+03/30/2023 23:27:46: Spawned Fish3 x 1
+03/30/2023 23:27:46: Spawned Fish8 x 5
+03/30/2023 23:27:46: Spawned Fish8 x 5
+03/30/2023 23:27:46: Spawned Fish12 x 5
+03/30/2023 23:27:46: Spawned Fish12 x 3
+03/30/2023 23:28:18: Placed locations in zone -14,16  duration 2,2402 ms
+03/30/2023 23:28:19: Spawned Fish3 x 1
+03/30/2023 23:28:19: Spawned Fish3 x 1
+03/30/2023 23:28:19: Spawned Fish5 x 7
+03/30/2023 23:28:19: Spawned Fish5 x 3
+03/30/2023 23:28:22: Placed locations in zone -7,16  duration 0 ms
+03/30/2023 23:28:27: Spawned Fish3 x 1
+03/30/2023 23:28:27: Spawned Fish5 x 1
+03/30/2023 23:28:27: Spawned Fish8 x 1
+03/30/2023 23:28:27: Loading dungeon
+03/30/2023 23:28:27: Dungeon loaded 0
+03/30/2023 23:28:27: Dungeon load time 0 ms
+03/30/2023 23:28:27: Generating DG_ForestCrypt(Clone), Seed: 1121900322, Bounds diff: (-23,5, -32,0, -40,4) / (40,5, 32,0, 23,6)
+03/30/2023 23:28:27: Available rooms:18
+03/30/2023 23:28:27: To place:40
+03/30/2023 23:28:27: Connections 4
+03/30/2023 23:28:27: placed 6 doors
+03/30/2023 23:28:27: Placed 19 rooms
+03/30/2023 23:28:27: Dungeon generated with seed 1121900322 and hash -205307394
+03/30/2023 23:28:27: Placed locations in zone -6,7  duration 12,6935 ms
+03/30/2023 23:28:27: Placed locations in zone -6,8  duration 2,2399 ms
+03/30/2023 23:28:28: Placed locations in zone -12,6  duration 1,4935 ms
+03/30/2023 23:28:28: Placed locations in zone -6,10  duration 0 ms
+03/30/2023 23:28:29: Placed locations in zone -6,13  duration 29,2105 ms
+03/30/2023 23:28:29: Loading dungeon
+03/30/2023 23:28:29: Dungeon loaded 0
+03/30/2023 23:28:29: Dungeon load time 0 ms
+03/30/2023 23:28:29: Generating DG_MeadowsFarm(Clone), Seed: 1074647901, Bounds diff: (-32,0, -32,0, -32,0) / (32,0, 32,0, 32,0)
+03/30/2023 23:28:29: Available rooms:13
+03/30/2023 23:28:29: To place:30
+03/30/2023 23:28:29: Placed 8 rooms
+03/30/2023 23:28:29: Dungeon generated with seed 1074647901 and hash -1230603947
+03/30/2023 23:28:29: Placed locations in zone -6,14  duration 48,5642 ms
+03/30/2023 23:28:30: Spawned Fish1 x 4
+03/30/2023 23:28:30: Spawned Fish2 x 4
+03/30/2023 23:28:30: Spawned Fish5 x 5
+03/30/2023 23:28:31: Placed locations in zone -12,5  duration 1,4935 ms
+03/30/2023 23:28:35: Loading dungeon
+03/30/2023 23:28:35: Dungeon loaded 33
+03/30/2023 23:28:35: Dungeon load time 14,1903 ms
+03/30/2023 23:28:38: Placed locations in zone -13,3  duration 2,2402 ms
+03/30/2023 23:28:39: Loading dungeon
+03/30/2023 23:28:39: Dungeon loaded 34
+03/30/2023 23:28:39: Dungeon load time 17,8915 ms
+03/30/2023 23:28:41: Loading dungeon
+03/30/2023 23:28:41: Dungeon loaded 15
+03/30/2023 23:28:41: Dungeon load time 58,2119 ms
+03/30/2023 23:28:42: Loading dungeon
+03/30/2023 23:28:42: Dungeon loaded 41
+03/30/2023 23:28:42: Dungeon load time 20,908 ms
+03/30/2023 23:28:42: Loading dungeon
+03/30/2023 23:28:42: Dungeon loaded 32
+03/30/2023 23:28:42: Dungeon load time 14,9364 ms
+03/30/2023 23:28:48: Loading dungeon
+03/30/2023 23:28:48: Dungeon loaded 29
+03/30/2023 23:28:48: Dungeon load time 23,8996 ms
+03/30/2023 23:28:48: Loading dungeon
+03/30/2023 23:28:48: Dungeon loaded 28
+03/30/2023 23:28:48: Dungeon load time 17,9191 ms
+03/30/2023 23:28:51: Placed locations in zone -13,-1  duration 2,2404 ms
+03/30/2023 23:28:51: Loading dungeon
+03/30/2023 23:28:51: Dungeon loaded 28
+03/30/2023 23:28:51: Dungeon load time 14,1866 ms
+03/30/2023 23:28:52: Starting descent
+03/30/2023 23:28:54: Placed locations in zone -13,-2  duration 2,2366 ms
+03/30/2023 23:28:59: Loading dungeon
+03/30/2023 23:28:59: Dungeon loaded 10
+03/30/2023 23:28:59: Dungeon load time 33,6056 ms
+03/30/2023 23:29:12: We are here
+03/30/2023 23:29:12: We are here
+03/30/2023 23:29:16: Starting music meadows
+03/30/2023 23:29:16: Resumed music meadows at 6022266
+03/30/2023 23:29:22: Destroying valkyrie
+03/30/2023 23:29:28: Queue unlock msg:$msg_newitem:$item_torch
+03/30/2023 23:29:28: Queue unlock msg:$msg_newitem:$item_chest_rags
+03/30/2023 23:29:28: Queue unlock msg:$msg_newmaterial:$item_resin
+03/30/2023 23:29:54: DiscoverClosestLocation
+03/30/2023 23:29:54: Found location of type Eikthyrnir
+03/30/2023 23:30:11: Spawned Greyling x 1
+03/30/2023 23:30:11: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:30:24: Queue unlock msg:$msg_newmaterial:$item_wood
+03/30/2023 23:30:24: Queue unlock msg:$msg_newrecipe:$item_club
+03/30/2023 23:30:24: Queue unlock msg:$msg_newrecipe:$item_torch
+03/30/2023 23:32:29: Queue unlock msg:$msg_newmaterial:$item_dandelion
+03/30/2023 23:32:35: Im still nto the owner
+03/30/2023 23:32:35: Im still nto the owner
+03/30/2023 23:32:35: Im finally the owner
+03/30/2023 23:32:36: Im still nto the owner
+03/30/2023 23:32:36: Im still nto the owner
+03/30/2023 23:32:36: Im still nto the owner
+03/30/2023 23:32:36: Im still nto the owner
+03/30/2023 23:32:36: Im still nto the owner
+03/30/2023 23:32:36: Im finally the owner
+03/30/2023 23:32:42: Queue unlock msg:$msg_newmaterial:$item_flint
+03/30/2023 23:32:48: Im still nto the owner
+03/30/2023 23:32:48: Im still nto the owner
+03/30/2023 23:32:48: Im still nto the owner
+03/30/2023 23:32:48: Im still nto the owner
+03/30/2023 23:32:48: Im still nto the owner
+03/30/2023 23:32:48: Im finally the owner
+03/30/2023 23:32:54: Queue unlock msg:$msg_newmaterial:$item_stone
+03/30/2023 23:32:54: Queue unlock msg:$msg_newrecipe:$item_axe_stone
+03/30/2023 23:32:54: Queue unlock msg:$msg_newrecipe:$item_hammer
+03/30/2023 23:33:04: Queue unlock msg:$msg_newmaterial:$item_necktail
+03/30/2023 23:33:04: Setting selected recipe 0
+03/30/2023 23:33:05: UI Group status changed root = True
+03/30/2023 23:33:05: UI Group status changed Player = True
+03/30/2023 23:33:44: Im still nto the owner
+03/30/2023 23:33:44: Im finally the owner
+03/30/2023 23:33:44: Queue unlock msg:$msg_newitem:$item_mushroomcommon
+03/30/2023 23:33:44: Im still nto the owner
+03/30/2023 23:33:44: Im still nto the owner
+03/30/2023 23:33:44: Im finally the owner
+03/30/2023 23:34:07: Uncompressed size 8388657
+03/30/2023 23:34:07: Compressed size 8444
+saving started
+03/30/2023 23:34:07: Considering autobackup. World time: 393,7798, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:34:07: Skipping backup. World session not long enough.
+saving finished
+03/30/2023 23:34:08: clone 79
+03/30/2023 23:34:08: World save writing starting
+03/30/2023 23:34:08: World save writing started
+03/30/2023 23:34:08: Saved 40289 zdos
+03/30/2023 23:34:08: World save writing finishing
+03/30/2023 23:34:08: Cloud Save: 4789437 bytes. /worlds/Covan.db
+03/30/2023 23:34:08: Steam writing file chunks 1 / 1, (4789437 bytes)
+03/30/2023 23:34:08: World save writing finished
+03/30/2023 23:34:08: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 23:34:08: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:34:08: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 23:34:08: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:34:08: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 23:34:08: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:34:08: Considering autobackup. World time: 393,7798, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:34:08: Skipping backup. World session not long enough.
+03/30/2023 23:34:08: World saved ( 326,2946ms )
+03/30/2023 23:34:08: Considering autobackup. World time: 393,7798, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:34:08: Skipping backup. World session not long enough.
+03/30/2023 23:34:11: Found selected Continue
+03/30/2023 23:34:14: UI Group status changed MenuRoot = True
+03/30/2023 23:34:14: Found selected Continue
+03/30/2023 23:34:17: Found selected Continue
+03/30/2023 23:34:32: Setting selected recipe 0
+03/30/2023 23:34:32: UI Group status changed root = True
+03/30/2023 23:34:32: UI Group status changed Player = True
+03/30/2023 23:34:40: Setting selected recipe 0
+03/30/2023 23:34:40: UI Group status changed root = True
+03/30/2023 23:34:40: UI Group status changed Player = True
+03/30/2023 23:34:43: Setting selected recipe 3
+03/30/2023 23:34:46: Setting selected recipe 3
+03/30/2023 23:34:46: UI Group status changed root = True
+03/30/2023 23:34:46: UI Group status changed Player = True
+03/30/2023 23:34:47: Loading dungeon
+03/30/2023 23:34:47: Dungeon loaded 10
+03/30/2023 23:34:47: Dungeon load time 37,3612 ms
+03/30/2023 23:34:49: Spawned Greyling x 1
+03/30/2023 23:35:01: Im still nto the owner
+03/30/2023 23:35:01: Im still nto the owner
+03/30/2023 23:35:01: Im still nto the owner
+03/30/2023 23:35:01: Im still nto the owner
+03/30/2023 23:35:01: Im still nto the owner
+03/30/2023 23:35:01: Im finally the owner
+03/30/2023 23:35:03: Setting selected recipe 0
+03/30/2023 23:35:03: UI Group status changed root = True
+03/30/2023 23:35:03: UI Group status changed Player = True
+03/30/2023 23:35:04: Starting music evening
+03/30/2023 23:35:05: Stopped music meadows at 1992958
+03/30/2023 23:35:07: Queue unlock msg:$msg_newitem:$item_axe_stone
+03/30/2023 23:35:07: Setting selected recipe 3
+03/30/2023 23:35:08: Setting selected recipe 1
+03/30/2023 23:35:11: Queue unlock msg:$msg_newitem:$item_hammer
+03/30/2023 23:35:11: Queue unlock msg:$msg_newpiece:$piece_repair
+03/30/2023 23:35:11: Queue unlock msg:$msg_newpiece:$piece_firepit
+03/30/2023 23:35:11: Queue unlock msg:$msg_newpiece:$piece_woodstack
+03/30/2023 23:35:11: Queue unlock msg:$msg_newpiece:$piece_stonepile
+03/30/2023 23:35:11: Queue unlock msg:$msg_newpiece:$piece_cookingstation
+03/30/2023 23:35:11: Queue unlock msg:$msg_newpiece:$piece_workbench
+03/30/2023 23:35:11: Setting selected recipe 3
+03/30/2023 23:35:40: Valid True
+03/30/2023 23:35:40: On death False
+03/30/2023 23:35:42: Queue unlock msg:$msg_newmaterial:$item_leatherscraps
+03/30/2023 23:35:43: Setting selected recipe 3
+03/30/2023 23:35:43: UI Group status changed root = True
+03/30/2023 23:35:43: UI Group status changed Player = True
+03/30/2023 23:35:49: Queue unlock msg:$msg_newmaterial:$item_boar_meat
+03/30/2023 23:36:07: Disabling PlayerBase  character_trigger
+03/30/2023 23:36:09: Disabling PlayerBase  character_trigger
+03/30/2023 23:37:18: Placed locations in zone 0,4  duration 11,9593 ms
+03/30/2023 23:37:19: Spawned Boar x 1
+03/30/2023 23:37:19: Spawned Greyling x 1
+03/30/2023 23:37:19: Update PlayFab entity token
+03/30/2023 23:39:33: Spawned Greyling x 1
+03/30/2023 23:40:10: Rel vel 1,583448
+03/30/2023 23:41:28: Setting selected recipe 1
+03/30/2023 23:41:28: UI Group status changed root = True
+03/30/2023 23:41:28: UI Group status changed Player = True
+03/30/2023 23:41:30: Setting selected recipe 3
+03/30/2023 23:41:35: UI Group status changed MenuRoot = True
+03/30/2023 23:41:37: Uncompressed size 8388657
+03/30/2023 23:41:37: Compressed size 8458
+saving started
+03/30/2023 23:41:37: Considering autobackup. World time: 835,1196, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:41:37: Skipping backup. World session not long enough.
+saving finished
+03/30/2023 23:41:37: clone 37
+03/30/2023 23:41:37: World save writing starting
+03/30/2023 23:41:37: World save writing started
+03/30/2023 23:41:37: Saved 40450 zdos
+03/30/2023 23:41:37: World save writing finishing
+03/30/2023 23:41:37: Cloud Save: 4828461 bytes. /worlds/Covan.db
+03/30/2023 23:41:37: Steam writing file chunks 1 / 1, (4828461 bytes)
+03/30/2023 23:41:37: World save writing finished
+03/30/2023 23:41:37: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 23:41:37: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:41:37: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 23:41:37: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:41:37: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 23:41:37: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:41:37: Considering autobackup. World time: 835,1196, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:41:37: Skipping backup. World session not long enough.
+03/30/2023 23:41:37: World saved ( 374,8268ms )
+03/30/2023 23:41:37: Considering autobackup. World time: 835,1196, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:41:37: Skipping backup. World session not long enough.
+03/30/2023 23:41:44: Skipping unloading unused assets
+03/30/2023 23:46:15: Game - OnApplicationQuit
+03/30/2023 23:46:15: Shuting down
+03/30/2023 23:46:15: Uncompressed size 8388657
+03/30/2023 23:46:15: Compressed size 8458
+saving started
+03/30/2023 23:46:15: Considering autobackup. World time: 835,1196, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:46:15: Skipping backup. World session not long enough.
+saving finished
+03/30/2023 23:46:15: ZNet Shutdown
+03/30/2023 23:46:15: clone 45
+03/30/2023 23:46:15: World save writing starting
+03/30/2023 23:46:15: World save writing started
+03/30/2023 23:46:15: Saved 40450 zdos
+03/30/2023 23:46:15: World save writing finishing
+03/30/2023 23:46:15: Cloud Save: 4828461 bytes. /worlds/Covan.db
+03/30/2023 23:46:16: Steam writing file chunks 1 / 1, (4828461 bytes)
+03/30/2023 23:46:16: World save writing finished
+03/30/2023 23:46:16: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/30/2023 23:46:16: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:46:16: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/30/2023 23:46:16: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:46:16: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/30/2023 23:46:16: Steam writing file chunks 1 / 1, (39 bytes)
+03/30/2023 23:46:16: Considering autobackup. World time: 835,1196, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:46:16: Skipping backup. World session not long enough.
+03/30/2023 23:46:16: World saved ( 256,6101ms )
+03/30/2023 23:46:16: Considering autobackup. World time: 835,1196, short time: 7200, long time: 43200, backup count: 10
+03/30/2023 23:46:16: Skipping backup. World session not long enough.
+03/30/2023 23:46:16: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+03/30/2023 23:46:16: Sending disconnect msg
+
+Unloading 1420 unused Assets to reduce memory usage. Loaded Objects now: 1749501.
+Total: 511.488600 ms (FindLiveObjects: 83.012200 ms CreateObjectMapping: 36.492100 ms MarkObjects: 388.691300 ms  DeleteObjects: 3.292800 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 878 -> priority: 1 
+  Thread -> id: ad4 -> priority: 1 
+  Thread -> id: 2684 -> priority: 1 
+03/30/2023 23:46:19: Found selected Continue
+03/30/2023 23:46:19: ZNet OnDestroy
+03/30/2023 23:46:19: Net scene destroyed
+03/30/2023 23:46:19: Steam manager on destroy
+03/30/2023 23:46:19: Local player destroyed
