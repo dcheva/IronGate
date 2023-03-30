@@ -1405,3 +1405,51 @@ saving finished
 03/31/2023 01:54:34: Setting selected recipe 2
 03/31/2023 01:54:37: Added to stack50 4
 03/31/2023 01:54:38: Setting selected recipe 2
+03/31/2023 01:55:09: Placed wood_wall_quarter
+03/31/2023 01:55:11: Placed wood_wall_quarter
+03/31/2023 01:55:13: Placed wood_wall_quarter
+03/31/2023 01:55:14: Placed wood_wall_quarter
+03/31/2023 01:55:19: Placed wood_wall_quarter
+03/31/2023 01:55:25: Placed wood_pole
+03/31/2023 01:55:31: Placed wood_wall_quarter
+03/31/2023 01:55:32: Placed wood_wall_quarter
+03/31/2023 01:55:34: Placed wood_wall_quarter
+03/31/2023 01:55:35: Placed wood_wall_quarter
+03/31/2023 01:55:36: Placed wood_wall_quarter
+03/31/2023 01:55:38: Placed wood_wall_quarter
+03/31/2023 01:55:39: Placed wood_wall_quarter
+03/31/2023 01:55:42: Placed wood_wall_quarter
+03/31/2023 01:55:58: Placed wood_pole2
+03/31/2023 01:56:02: Placed wood_pole2
+03/31/2023 01:56:14: Placed wood_pole2
+03/31/2023 01:56:17: Placed wood_pole2
+03/31/2023 01:56:17: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 75078 unused Assets to reduce memory usage. Loaded Objects now: 1796546.
+Total: 753.259200 ms (FindLiveObjects: 138.249200 ms CreateObjectMapping: 49.287300 ms MarkObjects: 399.806300 ms  DeleteObjects: 165.916000 ms)
+
+03/31/2023 01:56:20: Placed wood_pole2
+03/31/2023 01:56:24: Placed wood_pole2
+03/31/2023 01:56:28: Placed wood_pole2
+03/31/2023 01:56:33: Placed wood_pole2
+03/31/2023 01:57:54: Placed wood_roof
+03/31/2023 01:58:11: Placed wood_roof
+03/31/2023 01:58:25: Placed wood_roof
+03/31/2023 01:58:31: Placed wood_roof_top
+03/31/2023 01:58:48: Starting music morning
+03/31/2023 01:59:22: Starting music meadows
+03/31/2023 01:59:43: Player 3343654 wants to open piece_chest_wood(Clone)   im: 3343654
+03/31/2023 01:59:43: Setting selected recipe 2
+03/31/2023 01:59:43: UI Group status changed root = True
+03/31/2023 01:59:43: UI Group status changed Player = True
+03/31/2023 01:59:47: Setting selected recipe 2
+03/31/2023 01:59:51: Setting selected recipe 2
+03/31/2023 01:59:52: Stopped music meadows at 1317119
+03/31/2023 01:59:52: Starting music home
+03/31/2023 01:59:52: Setting selected recipe 2
+03/31/2023 01:59:54: Setting selected recipe 2
+03/31/2023 01:59:55: Setting selected recipe 2
+03/31/2023 01:59:57: Setting selected recipe 2
+03/31/2023 02:00:01: Setting selected recipe 2
+03/31/2023 02:00:02: Setting selected recipe 2
