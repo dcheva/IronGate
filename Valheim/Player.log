@@ -1453,3 +1453,115 @@ Total: 753.259200 ms (FindLiveObjects: 138.249200 ms CreateObjectMapping: 49.287
 03/31/2023 01:59:57: Setting selected recipe 2
 03/31/2023 02:00:01: Setting selected recipe 2
 03/31/2023 02:00:02: Setting selected recipe 2
+03/31/2023 02:00:09: Added to stack49 0
+03/31/2023 02:00:09: Setting selected recipe 2
+03/31/2023 02:00:11: Setting selected recipe 2
+03/31/2023 02:00:12: Setting selected recipe 2
+03/31/2023 02:00:13: Setting selected recipe 2
+03/31/2023 02:00:14: Setting selected recipe 2
+03/31/2023 02:00:16: Setting selected recipe 2
+03/31/2023 02:00:17: Item is not in this container
+03/31/2023 02:00:17: Setting selected recipe 2
+03/31/2023 02:00:19: Setting selected recipe 2
+03/31/2023 02:00:21: Setting selected recipe 2
+03/31/2023 02:00:21: Item is not in this container
+03/31/2023 02:00:21: Setting selected recipe 2
+03/31/2023 02:00:23: Setting selected recipe 2
+03/31/2023 02:00:39: Stopped music home at 2073523
+03/31/2023 02:00:39: Starting music home
+03/31/2023 02:00:39: Resumed music home at 2073523
+03/31/2023 02:00:39: Stopped music home at 2075404
+03/31/2023 02:00:39: Starting music meadows
+03/31/2023 02:00:39: Resumed music meadows at 1317119
+03/31/2023 02:00:43: Stopped music meadows at 1493989
+03/31/2023 02:00:43: Starting music home
+03/31/2023 02:00:43: Resumed music home at 2075404
+03/31/2023 02:00:54: Disabling PlayerBase  character_trigger
+03/31/2023 02:00:58: Disabling PlayerBase  character_trigger
+03/31/2023 02:01:08: Disabling PlayerBase  character_trigger
+03/31/2023 02:01:15: Disabling PlayerBase  character_trigger
+03/31/2023 02:01:22: Stopped music home at 3826232
+03/31/2023 02:01:22: Starting music meadows
+03/31/2023 02:01:22: Resumed music meadows at 1493989
+03/31/2023 02:01:25: Setting selected recipe 3
+03/31/2023 02:01:25: UI Group status changed root = True
+03/31/2023 02:01:25: UI Group status changed Crafting = True
+03/31/2023 02:01:29: Setting selected recipe 13
+03/31/2023 02:01:47: Setting selected recipe 18
+03/31/2023 02:01:50: Setting selected recipe 17
+03/31/2023 02:01:52: Setting selected recipe 16
+03/31/2023 02:01:55: Setting selected recipe 15
+03/31/2023 02:01:58: Setting selected recipe 14
+03/31/2023 02:02:01: Setting selected recipe 13
+03/31/2023 02:02:02: Setting selected recipe 12
+03/31/2023 02:02:08: Player 3343654 wants to open piece_chest_wood(Clone)   im: 3343654
+03/31/2023 02:02:08: Setting selected recipe 0
+03/31/2023 02:02:08: UI Group status changed root = True
+03/31/2023 02:02:08: UI Group status changed Player = True
+03/31/2023 02:02:11: Setting selected recipe 0
+03/31/2023 02:02:13: Setting selected recipe 0
+03/31/2023 02:02:17: Stopped music meadows at 3915608
+03/31/2023 02:02:17: Starting music home
+03/31/2023 02:02:17: Resumed music home at 3826232
+03/31/2023 02:02:23: Setting selected recipe 3
+03/31/2023 02:02:23: UI Group status changed root = True
+03/31/2023 02:02:23: UI Group status changed Crafting = True
+03/31/2023 02:02:25: Stopped music home at 4146103
+03/31/2023 02:02:25: Starting music meadows
+03/31/2023 02:02:25: Resumed music meadows at 3915608
+03/31/2023 02:02:27: Setting selected recipe 9
+03/31/2023 02:02:36: Setting selected recipe 4
+03/31/2023 02:02:40: Queue unlock msg:$msg_newitem:$item_bow
+03/31/2023 02:02:40: Setting selected recipe 13
+03/31/2023 02:02:42: Setting selected recipe 0
+03/31/2023 02:02:46: Queue unlock msg:$msg_newitem:$item_arrow_wood
+03/31/2023 02:02:46: Setting selected recipe 0
+03/31/2023 02:02:49: Setting selected recipe 0
+03/31/2023 02:02:53: Setting selected recipe 0
+03/31/2023 02:03:00: Setting selected recipe 15
+03/31/2023 02:03:07: Setting selected recipe 0
+03/31/2023 02:03:07: UI Group status changed root = True
+03/31/2023 02:03:07: UI Group status changed Player = True
+03/31/2023 02:03:16: Item is not in this container
+03/31/2023 02:03:16: Setting selected recipe 0
+03/31/2023 02:03:29: UI Group status changed MenuRoot = True
+03/31/2023 02:03:31: Uncompressed size 8388735
+03/31/2023 02:03:31: Compressed size 8549
+saving started
+03/31/2023 02:03:31: Cloud Save: 12287 bytes. /characters/dee.fch.new
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (12287 bytes)
+03/31/2023 02:03:31: Steam Cloud Move: 12341 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (12341 bytes)
+03/31/2023 02:03:31: Steam Cloud Move: 12287 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (12287 bytes)
+03/31/2023 02:03:31: Considering autobackup. World time: 7631,8, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:03:31: No autobackup needed yet...
+saving finished
+03/31/2023 02:03:31: clone 62
+03/31/2023 02:03:31: World save writing starting
+03/31/2023 02:03:31: World save writing started
+03/31/2023 02:03:31: Saved 40482 zdos
+03/31/2023 02:03:31: World save writing finishing
+03/31/2023 02:03:31: Cloud Save: 5037622 bytes. /worlds/Covan.db
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (5037622 bytes)
+03/31/2023 02:03:31: World save writing finished
+03/31/2023 02:03:31: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:03:31: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:03:31: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 02:03:31: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:03:31: Considering autobackup. World time: 7631,8, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:03:31: No autobackup needed yet...
+03/31/2023 02:03:31: World saved ( 243,2693ms )
+03/31/2023 02:03:31: Considering autobackup. World time: 7631,8, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:03:31: No autobackup needed yet...
+03/31/2023 02:03:35: Found selected Continue
+03/31/2023 02:04:15: Spawned Deer x 2
+03/31/2023 02:04:15: Spawned Greyling x 1
+03/31/2023 02:04:43: Spawned Greyling x 1
+03/31/2023 02:04:53: Im still nto the owner
+03/31/2023 02:04:53: Im still nto the owner
+03/31/2023 02:04:53: Im still nto the owner
+03/31/2023 02:04:53: Im still nto the owner
+03/31/2023 02:05:05: Im finally the owner
