@@ -1295,3 +1295,72 @@ saving finished
 03/31/2023 01:43:33: Spawned Greyling x 1
 03/31/2023 01:44:22: Placed wood_beam_26
 03/31/2023 01:44:31: Placed wood_beam_26
+03/31/2023 01:45:22: Placed wood_door
+03/31/2023 01:46:11: Setting selected recipe 2
+03/31/2023 01:46:11: UI Group status changed root = True
+03/31/2023 01:46:11: UI Group status changed Player = True
+03/31/2023 01:46:42: Setting selected recipe 2
+03/31/2023 01:46:42: UI Group status changed root = True
+03/31/2023 01:46:42: UI Group status changed Player = True
+03/31/2023 01:46:44: Setting selected recipe 2
+03/31/2023 01:46:45: Drop item $item_hammer
+03/31/2023 01:46:45: drop all 1  1
+03/31/2023 01:46:45: Setting selected recipe 2
+03/31/2023 01:46:47: Drop item $item_hammer
+03/31/2023 01:46:47: drop all 1  1
+03/31/2023 01:46:47: Setting selected recipe 2
+03/31/2023 01:47:35: Placed piece_workbench_ext1
+03/31/2023 01:47:46: Uncompressed size 8388735
+03/31/2023 01:47:46: Compressed size 8549
+saving started
+03/31/2023 01:47:46: Cloud Save: 12341 bytes. /characters/dee.fch.new
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (12341 bytes)
+03/31/2023 01:47:46: Steam Cloud Move: 12322 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (12322 bytes)
+03/31/2023 01:47:46: Steam Cloud Move: 12341 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (12341 bytes)
+03/31/2023 01:47:46: Considering autobackup. World time: 6689,02, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 01:47:46: No autobackup needed yet...
+saving finished
+03/31/2023 01:47:46: clone 29
+03/31/2023 01:47:46: World save writing starting
+03/31/2023 01:47:46: World save writing started
+03/31/2023 01:47:46: Saved 40453 zdos
+03/31/2023 01:47:46: World save writing finishing
+03/31/2023 01:47:46: Cloud Save: 5007501 bytes. /worlds/Covan.db
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (5007501 bytes)
+03/31/2023 01:47:46: World save writing finished
+03/31/2023 01:47:46: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 01:47:46: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 01:47:46: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 01:47:46: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 01:47:46: Considering autobackup. World time: 6689,42, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 01:47:46: No autobackup needed yet...
+03/31/2023 01:47:46: World saved ( 289,3975ms )
+03/31/2023 01:47:46: Considering autobackup. World time: 6689,42, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 01:47:46: No autobackup needed yet...
+03/31/2023 01:47:48: Disabling PlayerBase  character_trigger
+03/31/2023 01:47:49: Disabling PlayerBase  character_trigger
+03/31/2023 01:48:23: Placed bed
+03/31/2023 01:48:23: Disabling PlayerBase  character_trigger
+03/31/2023 01:48:45: Placed piece_chest_wood
+03/31/2023 01:48:53: Placed piece_chest_wood
+03/31/2023 01:49:17: Placed piece_chest_wood
+03/31/2023 01:49:20: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:25: Placed piece_groundtorch_wood
+03/31/2023 01:49:25: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:25: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:34: Has no creator
+03/31/2023 01:49:34: exporeusre check 0,9411765  True
+03/31/2023 01:49:36: Is mine
+03/31/2023 01:49:36: is current spawnpoint
+03/31/2023 01:49:36: exporeusre check 0,9411765  True
+03/31/2023 01:49:46: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:46: Starting music evening
+03/31/2023 01:49:47: Stopped music meadows at 5535072
+03/31/2023 01:49:48: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:48: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:53: Disabling PlayerBase  character_trigger
+03/31/2023 01:49:56: Disabling PlayerBase  character_trigger
