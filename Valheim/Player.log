@@ -566,3 +566,50 @@ saving finished
 03/31/2023 00:12:03: Placed piece_workbench
 03/31/2023 00:12:03: Disabling PlayerBase  character_trigger
 03/31/2023 00:12:07: Disabling PlayerBase  character_trigger
+03/31/2023 00:12:46: Disabling PlayerBase  character_trigger
+03/31/2023 00:12:48: Disabling PlayerBase  character_trigger
+03/31/2023 00:13:09: Disabling PlayerBase  character_trigger
+03/31/2023 00:13:10: Disabling PlayerBase  character_trigger
+03/31/2023 00:13:12: Disabling PlayerBase  character_trigger
+03/31/2023 00:13:41: Placed piece_workbench
+03/31/2023 00:13:41: Disabling PlayerBase  character_trigger
+03/31/2023 00:14:01: Disabling PlayerBase  character_trigger
+03/31/2023 00:14:27: Disabling jump_trigger  character_trigger
+03/31/2023 00:14:27: Disabling jump_trigger (1)  character_trigger
+03/31/2023 00:14:27: Disabling jump_trigger (2)  character_trigger
+03/31/2023 00:15:02: Placed wood_stair
+03/31/2023 00:15:30: Placed wood_stair
+03/31/2023 00:15:34: Placed wood_stair
+03/31/2023 00:16:04: Rel vel 9,77832
+03/31/2023 00:16:09: Setting selected recipe 0
+03/31/2023 00:16:09: UI Group status changed root = True
+03/31/2023 00:16:09: UI Group status changed Player = True
+03/31/2023 00:16:44: Setting selected recipe 3
+03/31/2023 00:16:44: UI Group status changed root = True
+03/31/2023 00:16:44: UI Group status changed Player = True
+03/31/2023 00:16:47: Drop item $item_axe_stone
+03/31/2023 00:16:47: drop all 1  1
+03/31/2023 00:16:47: Setting selected recipe 3
+03/31/2023 00:16:49: Setting selected recipe 3
+03/31/2023 00:17:06: Starting respawn
+03/31/2023 00:17:06: Local player destroyed
+03/31/2023 00:17:06: tip:$loadscreen_tip16
+03/31/2023 00:17:08: Unloading unused assets
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 8799 unused Assets to reduce memory usage. Loaded Objects now: 1743622.
+Total: 527.097300 ms (FindLiveObjects: 103.475300 ms CreateObjectMapping: 35.221900 ms MarkObjects: 368.965900 ms  DeleteObjects: 19.433900 ms)
+
+03/31/2023 00:17:09: Spawned Greyling x 1
+03/31/2023 00:17:16: Stopped music meadows at 1247846
+03/31/2023 00:17:16: Starting music meadows
+03/31/2023 00:17:16: Resumed music meadows at 1247846
+03/31/2023 00:17:22: Loading dungeon
+03/31/2023 00:17:22: Dungeon loaded 29
+03/31/2023 00:17:22: Dungeon load time 16,9572 ms
+03/31/2023 00:17:24: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/31/2023 00:17:25: Spawned Neck x 1
+03/31/2023 00:17:41: Spawned Greyling x 1
+03/31/2023 00:17:43: Loading dungeon
+03/31/2023 00:17:43: Dungeon loaded 28
+03/31/2023 00:17:43: Dungeon load time 13,2267 ms
