@@ -490,3 +490,57 @@ saving finished
 03/31/2023 00:02:34: UI Group status changed MenuRoot = True
 03/31/2023 00:02:34: Found selected Continue
 03/31/2023 00:02:37: Found selected Continue
+03/31/2023 00:02:42: Loading dungeon
+03/31/2023 00:02:42: Dungeon loaded 29
+03/31/2023 00:02:42: Dungeon load time 15,6838 ms
+03/31/2023 00:03:03: Loading dungeon
+03/31/2023 00:03:03: Dungeon loaded 29
+03/31/2023 00:03:03: Dungeon load time 15,6639 ms
+03/31/2023 00:03:13: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/31/2023 00:03:17: Loading dungeon
+03/31/2023 00:03:17: Dungeon loaded 29
+03/31/2023 00:03:17: Dungeon load time 15,6497 ms
+03/31/2023 00:03:37: Spawned Greyling x 1
+03/31/2023 00:03:40: Loading dungeon
+03/31/2023 00:03:40: Dungeon loaded 28
+03/31/2023 00:03:40: Dungeon load time 13,4648 ms
+03/31/2023 00:04:03: Setting selected recipe 3
+03/31/2023 00:04:03: UI Group status changed root = True
+03/31/2023 00:04:03: UI Group status changed Player = True
+03/31/2023 00:04:08: Queue unlock msg:$msg_newmaterial:$item_greydwarfeye
+03/31/2023 00:04:11: Player 3343654 wants to open Player_tombstone(Clone)   im: 3343654
+03/31/2023 00:04:11: Setting selected recipe 0
+03/31/2023 00:04:11: UI Group status changed root = True
+03/31/2023 00:04:11: UI Group status changed Player = True
+03/31/2023 00:04:12: Queue unlock msg:$msg_newitem:$item_club
+03/31/2023 00:04:12: Queue unlock msg:$msg_newmaterial:$item_beechseeds
+03/31/2023 00:04:12: Queue unlock msg:$msg_newmaterial:$item_feathers
+03/31/2023 00:04:12: Queue unlock msg:$msg_newitem:$item_raspberries
+03/31/2023 00:04:12: Queue unlock msg:$msg_newitem:$item_boar_meat_cooked
+03/31/2023 00:04:15: Player 3343654 wants to open Player_tombstone(Clone)   im: 3343654
+03/31/2023 00:04:15: Setting selected recipe 1
+03/31/2023 00:04:15: UI Group status changed root = True
+03/31/2023 00:04:15: UI Group status changed Player = True
+03/31/2023 00:04:26: Valid True
+03/31/2023 00:04:26: On death False
+03/31/2023 00:04:29: Setting selected recipe 3
+03/31/2023 00:04:29: UI Group status changed root = True
+03/31/2023 00:04:29: UI Group status changed Player = True
+03/31/2023 00:04:57: Disabling collider_block  blocker
+03/31/2023 00:04:59: Placed piece_cookingstation
+03/31/2023 00:04:59: Disabling collider_block  blocker
+03/31/2023 00:05:12: Disabling collider_block  blocker
+03/31/2023 00:05:25: Placed stone_pile
+03/31/2023 00:05:51: Setting selected recipe 3
+03/31/2023 00:05:51: UI Group status changed root = True
+03/31/2023 00:05:51: UI Group status changed Player = True
+03/31/2023 00:05:58: Added to stack50 33
+03/31/2023 00:06:00: Setting selected recipe 3
+03/31/2023 00:06:14: Placed wood_stack
+03/31/2023 00:06:24: Setting selected recipe 3
+03/31/2023 00:06:24: UI Group status changed root = True
+03/31/2023 00:06:24: UI Group status changed Player = True
+03/31/2023 00:06:59: Placed wood_floor
+03/31/2023 00:07:01: Placed wood_floor
+03/31/2023 00:07:06: Placed wood_floor
+03/31/2023 00:07:40: Queue unlock msg:$msg_newitem:$item_necktailgrilled
