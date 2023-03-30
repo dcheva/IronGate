@@ -388,3 +388,105 @@ saving finished
 03/30/2023 23:57:18: Considering autobackup. World time: 134,12, short time: 7200, long time: 43200, backup count: 10
 03/30/2023 23:57:18: Skipping backup. World session not long enough.
 03/30/2023 23:57:28: Skipping unloading unused assets
+03/30/2023 23:57:37: Found selected Continue
+03/30/2023 23:57:45: DiscoverClosestLocation
+03/30/2023 23:57:45: Found location of type Eikthyrnir
+03/30/2023 23:57:50: Setting selected recipe 3
+03/30/2023 23:57:50: UI Group status changed root = True
+03/30/2023 23:57:50: UI Group status changed Player = True
+03/30/2023 23:57:53: Starting music morning
+03/30/2023 23:58:09: Setting selected recipe 3
+03/30/2023 23:58:09: UI Group status changed root = True
+03/30/2023 23:58:09: UI Group status changed Player = True
+03/30/2023 23:58:11: Setting selected recipe 3
+03/30/2023 23:58:11: UI Group status changed root = True
+03/30/2023 23:58:11: UI Group status changed Player = True
+03/30/2023 23:58:20: Loading dungeon
+03/30/2023 23:58:20: Dungeon loaded 29
+03/30/2023 23:58:20: Dungeon load time 15,6798 ms
+03/30/2023 23:58:20: Spawned Neck x 0
+03/30/2023 23:58:25: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/30/2023 23:58:27: Starting music meadows
+03/30/2023 23:58:27: Resumed music meadows at 0
+03/30/2023 23:59:01: Loading dungeon
+03/30/2023 23:59:01: Dungeon loaded 28
+03/30/2023 23:59:01: Dungeon load time 13,4442 ms
+03/30/2023 23:59:19: Spawned Greyling x 1
+03/30/2023 23:59:37: Player 3343654 wants to open Player_tombstone(Clone)   im: 3343654
+03/30/2023 23:59:37: Setting selected recipe 3
+03/30/2023 23:59:37: UI Group status changed root = True
+03/30/2023 23:59:37: UI Group status changed Player = True
+03/30/2023 23:59:37: UI Group status changed Container = False
+03/30/2023 23:59:38: Queue unlock msg:$msg_newmaterial:$item_deer_meat
+03/30/2023 23:59:38: Queue unlock msg:$msg_newmaterial:$item_deerhide
+03/30/2023 23:59:45: Queue unlock msg:$msg_newstation:$piece_workbench
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_chest_rags
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_legs_rags
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_arrow_wood
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_axe_flint
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_bow
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_hoe
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_knife_flint
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_shield_wood
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_shield_woodtower
+03/30/2023 23:59:45: Queue unlock msg:$msg_newrecipe:$item_spear_flint
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_workbench_ext1
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_workbench_ext2
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodfloor1x1
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodfloor2x2
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodstair
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodstepladder
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallquarter
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallhalf
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwall
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallroof
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallroof_upsidedown
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45_upsidedown
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodroof26
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodrooftop
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodroof45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodrooftop45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodpole
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodpole2
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodbeam1
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodbeam2
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodbeam26
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodbeam45
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_wooddoor
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodgate
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_woodfence
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_stakewall
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_bed
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_chestwood
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_groundtorchwood
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$ship_raft
+03/30/2023 23:59:45: Queue unlock msg:$msg_newpiece:$piece_rug_deer
+03/30/2023 23:59:49: Update PlayFab entity token
+03/31/2023 00:00:57: Setting selected recipe 3
+03/31/2023 00:00:57: UI Group status changed root = True
+03/31/2023 00:00:57: UI Group status changed Player = True
+03/31/2023 00:01:09: Starting respawn
+03/31/2023 00:01:09: Local player destroyed
+03/31/2023 00:01:09: tip:$loadscreen_tip18
+03/31/2023 00:01:12: Skipping unloading unused assets
+03/31/2023 00:01:12: Spawned Greyling x 1
+03/31/2023 00:01:19: Stopped music meadows at 7593196
+03/31/2023 00:01:19: Starting music meadows
+03/31/2023 00:01:19: Resumed music meadows at 7593196
+03/31/2023 00:02:19: Setting selected recipe 3
+03/31/2023 00:02:19: UI Group status changed root = True
+03/31/2023 00:02:19: UI Group status changed Player = True
+03/31/2023 00:02:26: UI Group status changed MenuRoot = True
+03/31/2023 00:02:27: Current res 1920x1080     1920x1080
+03/31/2023 00:02:27: UI Group status changed MenuRoot = False
+03/31/2023 00:02:27: Found selected Settings
+03/31/2023 00:02:34: UI Group status changed MenuRoot = True
+03/31/2023 00:02:34: Found selected Continue
+03/31/2023 00:02:37: Found selected Continue
