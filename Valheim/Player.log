@@ -1756,3 +1756,138 @@ saving finished
 03/31/2023 02:24:39: Placed wood_beam
 03/31/2023 02:24:46: Placed wood_roof
 03/31/2023 02:25:12: Placed wood_pole2
+03/31/2023 02:25:39: Placed wood_roof_45
+03/31/2023 02:26:09: Placed wood_roof_45
+03/31/2023 02:26:14: Placed wood_beam
+03/31/2023 02:26:23: Placed wood_roof
+03/31/2023 02:26:51: Placed wood_pole2
+03/31/2023 02:27:01: Placed wood_pole2
+03/31/2023 02:27:08: Placed wood_beam
+03/31/2023 02:27:10: Placed wood_beam
+03/31/2023 02:27:26: Placed wood_beam_45
+03/31/2023 02:27:37: Placed wood_pole2
+03/31/2023 02:27:47: Placed wood_pole2
+03/31/2023 02:27:58: Placed wood_roof
+03/31/2023 02:28:03: Placed wood_roof
+03/31/2023 02:28:16: Placed wood_roof_45
+03/31/2023 02:28:27: Placed wood_roof_45
+03/31/2023 02:28:54: Starting music morning
+03/31/2023 02:29:15: Setting selected recipe 0
+03/31/2023 02:29:15: UI Group status changed root = True
+03/31/2023 02:29:15: UI Group status changed Player = True
+03/31/2023 02:29:28: Starting music meadows
+03/31/2023 02:29:32: Is mine
+03/31/2023 02:29:32: is current spawnpoint
+03/31/2023 02:29:34: Player 3343654 wants to open piece_chest_wood(Clone)   im: 3343654
+03/31/2023 02:29:34: Setting selected recipe 0
+03/31/2023 02:29:34: UI Group status changed root = True
+03/31/2023 02:29:34: UI Group status changed Player = True
+03/31/2023 02:29:35: Stopped music meadows at 337747
+03/31/2023 02:29:35: Starting music home
+03/31/2023 02:29:42: Is mine
+03/31/2023 02:29:42: is current spawnpoint
+03/31/2023 02:29:43: Is mine
+03/31/2023 02:29:43: is current spawnpoint
+03/31/2023 02:29:44: Is mine
+03/31/2023 02:29:44: is current spawnpoint
+03/31/2023 02:29:49: Stopped music home at 591763
+03/31/2023 02:29:49: Starting music meadows
+03/31/2023 02:29:49: Resumed music meadows at 337747
+03/31/2023 02:29:52: UI Group status changed MenuRoot = True
+03/31/2023 02:29:53: Found selected Continue
+03/31/2023 02:30:01: UI Group status changed MenuRoot = True
+03/31/2023 02:30:01: Found selected Continue
+03/31/2023 02:30:03: Uncompressed size 8388735
+03/31/2023 02:30:03: Compressed size 8577
+saving started
+03/31/2023 02:30:03: Cloud Save: 12494 bytes. /characters/dee.fch.new
+03/31/2023 02:30:03: Steam writing file chunks 1 / 1, (12494 bytes)
+03/31/2023 02:30:03: Steam Cloud Move: 12287 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 02:30:03: Steam writing file chunks 1 / 1, (12287 bytes)
+03/31/2023 02:30:03: Steam Cloud Move: 12494 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 02:30:03: Steam writing file chunks 1 / 1, (12494 bytes)
+03/31/2023 02:30:03: Considering autobackup. World time: 9217,439, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:30:03: Overwrite our newest autobackup since the second one isn't so old
+03/31/2023 02:30:03: Replacing backup file: characters/dee_backup_auto-20230331001849.fch
+03/31/2023 02:30:03: Saving backup at: \characters\dee_backup_auto-20230331023003.fch
+03/31/2023 02:30:03: Cloud Copy: 12494 bytes. /characters/dee.fch -> \characters\dee_backup_auto-20230331023003.fch
+03/31/2023 02:30:03: Steam writing file chunks 1 / 1, (12494 bytes)
+saving finished
+03/31/2023 02:30:03: clone 30
+03/31/2023 02:30:03: World save writing starting
+03/31/2023 02:30:03: World save writing started
+03/31/2023 02:30:03: Saved 41985 zdos
+03/31/2023 02:30:03: World save writing finishing
+03/31/2023 02:30:03: Cloud Save: 5279929 bytes. /worlds/Covan.db
+03/31/2023 02:30:03: Steam writing file chunks 1 / 1, (5279929 bytes)
+03/31/2023 02:30:03: World save writing finished
+03/31/2023 02:30:03: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 02:30:04: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:04: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 02:30:04: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:04: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 02:30:04: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:04: Considering autobackup. World time: 9217,439, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:30:04: Overwrite our newest autobackup since the second one isn't so old
+03/31/2023 02:30:04: Replacing backup file: worlds/Covan_backup_auto-20230331001849.fwl
+03/31/2023 02:30:04: Saving backup at: \worlds\Covan_backup_auto-20230331023003.fwl
+03/31/2023 02:30:04: Cloud Copy: 39 bytes. /worlds/Covan.fwl -> \worlds\Covan_backup_auto-20230331023003.fwl
+03/31/2023 02:30:04: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:04: World saved ( 376,32ms )
+03/31/2023 02:30:04: Considering autobackup. World time: 9217,439, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:30:04: No autobackup needed yet...
+03/31/2023 02:30:04: UI Group status changed MenuRoot = False
+03/31/2023 02:30:06: Game - OnApplicationQuit
+03/31/2023 02:30:06: Shuting down
+03/31/2023 02:30:06: Uncompressed size 8388735
+03/31/2023 02:30:06: Compressed size 8577
+saving started
+03/31/2023 02:30:06: Cloud Save: 12494 bytes. /characters/dee.fch.new
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (12494 bytes)
+03/31/2023 02:30:06: Steam Cloud Move: 12494 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (12494 bytes)
+03/31/2023 02:30:06: Steam Cloud Move: 12494 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (12494 bytes)
+03/31/2023 02:30:06: Considering autobackup. World time: 9217,439, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:30:06: No autobackup needed yet...
+saving finished
+03/31/2023 02:30:06: ZNet Shutdown
+03/31/2023 02:30:06: clone 31
+03/31/2023 02:30:06: World save writing starting
+03/31/2023 02:30:06: World save writing started
+03/31/2023 02:30:06: Saved 41985 zdos
+03/31/2023 02:30:06: World save writing finishing
+03/31/2023 02:30:06: Cloud Save: 5279929 bytes. /worlds/Covan.db
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (5279929 bytes)
+03/31/2023 02:30:06: World save writing finished
+03/31/2023 02:30:06: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:06: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:06: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 02:30:06: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 02:30:06: Considering autobackup. World time: 9217,439, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:30:06: No autobackup needed yet...
+03/31/2023 02:30:06: World saved ( 248,7193ms )
+03/31/2023 02:30:06: Considering autobackup. World time: 9217,439, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 02:30:06: No autobackup needed yet...
+03/31/2023 02:30:06: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+03/31/2023 02:30:06: Sending disconnect msg
+03/31/2023 02:30:06: Disposing socket
+03/31/2023 02:30:06: Stopping listening socket
+03/31/2023 02:30:06: Last socket, unregistering callback
+03/31/2023 02:30:06: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+Unloading 20332 unused Assets to reduce memory usage. Loaded Objects now: 1799817.
+Total: 575.645600 ms (FindLiveObjects: 105.116700 ms CreateObjectMapping: 40.068100 ms MarkObjects: 385.314300 ms  DeleteObjects: 45.146200 ms)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 1d40 -> priority: 1 
+  Thread -> id: 1040 -> priority: 1 
+  Thread -> id: 1630 -> priority: 1 
+03/31/2023 02:30:09: Steam manager on destroy
+03/31/2023 02:30:09: Found selected Button_yes
+03/31/2023 02:30:09: ZNet OnDestroy
+03/31/2023 02:30:09: Net scene destroyed
+03/31/2023 02:30:10: Local player destroyed
