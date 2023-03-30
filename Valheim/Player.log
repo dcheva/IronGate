@@ -1364,3 +1364,44 @@ saving finished
 03/31/2023 01:49:48: Disabling PlayerBase  character_trigger
 03/31/2023 01:49:53: Disabling PlayerBase  character_trigger
 03/31/2023 01:49:56: Disabling PlayerBase  character_trigger
+03/31/2023 01:50:06: Placed fire_pit
+03/31/2023 01:50:06: Disabling PlayerBase  character_trigger
+03/31/2023 01:50:06: Disabling PlayerBase  character_trigger
+03/31/2023 01:50:10: Disabling PlayerBase  character_trigger
+03/31/2023 01:50:11: Disabling collider_block  blocker
+03/31/2023 01:50:16: Placed piece_cookingstation
+03/31/2023 01:50:16: Disabling collider_block  blocker
+03/31/2023 01:50:25: Disabling collider_block  blocker
+03/31/2023 01:50:26: Disabling collider_block  blocker
+03/31/2023 01:50:31: Disabling PlayerBase  character_trigger
+03/31/2023 01:50:45: Placed piece_workbench
+03/31/2023 01:50:45: Disabling PlayerBase  character_trigger
+03/31/2023 01:51:04: Disabling PlayerBase  character_trigger
+03/31/2023 01:51:17: Placed wood_roof
+03/31/2023 01:51:30: Placed wood_roof_top
+03/31/2023 01:51:38: Placed wood_roof
+03/31/2023 01:51:49: Queue unlock msg:$msg_newmaterial:$item_coal
+03/31/2023 01:51:49: Queue unlock msg:$msg_newpiece:$piece_coalpile
+03/31/2023 01:51:49: Queue unlock msg:$msg_newpiece:$piece_sign
+03/31/2023 01:51:54: Setting selected recipe 2
+03/31/2023 01:51:54: UI Group status changed root = True
+03/31/2023 01:51:54: UI Group status changed Player = True
+03/31/2023 01:51:54: Update PlayFab entity token
+03/31/2023 01:52:09: Setting selected recipe 8
+03/31/2023 01:52:09: UI Group status changed root = True
+03/31/2023 01:52:09: UI Group status changed Crafting = True
+03/31/2023 01:53:02: Placed wood_stair
+03/31/2023 01:54:06: Setting selected recipe 2
+03/31/2023 01:54:06: UI Group status changed root = True
+03/31/2023 01:54:06: UI Group status changed Player = True
+03/31/2023 01:54:11: Added to stack31 0
+03/31/2023 01:54:11: Setting selected recipe 2
+03/31/2023 01:54:24: Setting selected recipe 2
+03/31/2023 01:54:26: Setting selected recipe 2
+03/31/2023 01:54:28: Setting selected recipe 2
+03/31/2023 01:54:29: Setting selected recipe 2
+03/31/2023 01:54:30: Setting selected recipe 2
+03/31/2023 01:54:31: Setting selected recipe 2
+03/31/2023 01:54:34: Setting selected recipe 2
+03/31/2023 01:54:37: Added to stack50 4
+03/31/2023 01:54:38: Setting selected recipe 2
