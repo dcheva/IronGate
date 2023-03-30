@@ -1666,3 +1666,71 @@ saving finished
 03/31/2023 02:14:49: Setting selected recipe 0
 03/31/2023 02:14:49: UI Group status changed root = True
 03/31/2023 02:14:49: UI Group status changed Player = True
+03/31/2023 02:15:44: Setting selected recipe 0
+03/31/2023 02:15:44: UI Group status changed root = True
+03/31/2023 02:15:44: UI Group status changed Player = True
+03/31/2023 02:16:04: Setting selected recipe 0
+03/31/2023 02:16:04: UI Group status changed root = True
+03/31/2023 02:16:04: UI Group status changed Player = True
+03/31/2023 02:16:08: Drop item $item_stone
+03/31/2023 02:16:08: drop all 50  50
+03/31/2023 02:16:08: Setting selected recipe 0
+03/31/2023 02:16:13: Placed wood_stack
+03/31/2023 02:16:29: Placed stone_pile
+03/31/2023 02:16:40: Setting selected recipe 0
+03/31/2023 02:16:40: UI Group status changed root = True
+03/31/2023 02:16:40: UI Group status changed Player = True
+03/31/2023 02:16:49: Setting selected recipe 0
+03/31/2023 02:16:50: Setting selected recipe 0
+03/31/2023 02:16:54: Setting selected recipe 0
+03/31/2023 02:16:56: Setting selected recipe 2
+03/31/2023 02:16:59: Setting selected recipe 2
+03/31/2023 02:17:23: Setting selected recipe 2
+03/31/2023 02:17:23: UI Group status changed root = True
+03/31/2023 02:17:23: UI Group status changed Player = True
+03/31/2023 02:17:25: Drop item $item_hammer
+03/31/2023 02:17:25: drop all 1  1
+03/31/2023 02:17:25: Setting selected recipe 2
+03/31/2023 02:17:26: Drop item $item_chest_rags
+03/31/2023 02:17:26: drop all 1  1
+03/31/2023 02:17:26: Setting selected recipe 2
+03/31/2023 02:17:27: Drop item $item_bow
+03/31/2023 02:17:27: drop all 1  1
+03/31/2023 02:17:27: Setting selected recipe 2
+03/31/2023 02:17:37: Queue unlock msg:$msg_newitem:$animal_fish2
+03/31/2023 02:17:58: Spawned Seagal x 1
+03/31/2023 02:18:08: Setting selected recipe 2
+03/31/2023 02:18:08: UI Group status changed root = True
+03/31/2023 02:18:08: UI Group status changed Player = True
+03/31/2023 02:18:16: Setting selected recipe 3
+03/31/2023 02:18:16: UI Group status changed root = True
+03/31/2023 02:18:16: UI Group status changed Crafting = True
+03/31/2023 02:18:24: Setting selected recipe 14
+03/31/2023 02:18:34: Setting selected recipe 0
+03/31/2023 02:18:38: Setting selected recipe 1
+03/31/2023 02:18:41: Setting selected recipe 3
+03/31/2023 02:18:52: Setting selected recipe 3
+03/31/2023 02:18:54: Setting selected recipe 3
+03/31/2023 02:18:56: Setting selected recipe 0
+03/31/2023 02:18:59: Setting selected recipe 3
+03/31/2023 02:19:08: Setting selected recipe 0
+03/31/2023 02:19:11: Setting selected recipe 4
+03/31/2023 02:19:15: Setting selected recipe 0
+03/31/2023 02:19:18: Setting selected recipe 5
+03/31/2023 02:19:22: Queue unlock msg:$msg_newitem:$item_shield_wood
+03/31/2023 02:19:22: Setting selected recipe 16
+03/31/2023 02:19:27: Setting selected recipe 16
+03/31/2023 02:19:27: UI Group status changed root = True
+03/31/2023 02:19:27: UI Group status changed Crafting = True
+03/31/2023 02:19:29: Setting selected recipe 0
+03/31/2023 02:19:30: Setting selected recipe 5
+03/31/2023 02:19:38: Setting selected recipe 0
+03/31/2023 02:19:38: UI Group status changed root = True
+03/31/2023 02:19:38: UI Group status changed Player = True
+03/31/2023 02:19:41: Item is not in this container
+03/31/2023 02:19:41: Setting selected recipe 0
+03/31/2023 02:19:53: Starting music evening
+03/31/2023 02:19:54: Stopped music meadows at 1628868
+03/31/2023 02:20:02: Is mine
+03/31/2023 02:20:02: is current spawnpoint
+03/31/2023 02:20:02: exporeusre check 0,9411765  True
