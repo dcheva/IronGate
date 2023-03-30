@@ -1565,3 +1565,60 @@ saving finished
 03/31/2023 02:04:53: Im still nto the owner
 03/31/2023 02:04:53: Im still nto the owner
 03/31/2023 02:05:05: Im finally the owner
+03/31/2023 02:05:06: Setting selected recipe 0
+03/31/2023 02:05:06: UI Group status changed root = True
+03/31/2023 02:05:06: UI Group status changed Player = True
+03/31/2023 02:05:28: Im still nto the owner
+03/31/2023 02:05:28: Im still nto the owner
+03/31/2023 02:05:28: Im still nto the owner
+03/31/2023 02:05:28: Im still nto the owner
+03/31/2023 02:05:28: Im still nto the owner
+03/31/2023 02:05:28: Im finally the owner
+03/31/2023 02:05:43: Stopped music meadows at 2931600
+03/31/2023 02:05:43: Starting music meadows
+03/31/2023 02:05:43: Resumed music meadows at 2931600
+03/31/2023 02:06:45: Im still nto the owner
+03/31/2023 02:06:45: Im still nto the owner
+03/31/2023 02:06:45: Im still nto the owner
+03/31/2023 02:06:45: Im still nto the owner
+03/31/2023 02:06:46: Im finally the owner
+03/31/2023 02:06:53: Loading dungeon
+03/31/2023 02:06:53: Dungeon loaded 29
+03/31/2023 02:06:53: Dungeon load time 16,4266 ms
+03/31/2023 02:07:00: Setting selected recipe 0
+03/31/2023 02:07:00: UI Group status changed root = True
+03/31/2023 02:07:00: UI Group status changed Player = True
+03/31/2023 02:07:50: Valid True
+03/31/2023 02:07:50: On death False
+03/31/2023 02:07:56: Im still nto the owner
+03/31/2023 02:07:56: Im still nto the owner
+03/31/2023 02:07:56: Im finally the owner
+03/31/2023 02:08:04: Setting selected recipe 0
+03/31/2023 02:08:04: UI Group status changed root = True
+03/31/2023 02:08:04: UI Group status changed Player = True
+03/31/2023 02:08:13: Spawned Boar x 1
+03/31/2023 02:08:21: Spawned Boar x 1
+03/31/2023 02:08:21: Spawned Greyling x 1
+03/31/2023 02:08:44: Loading dungeon
+03/31/2023 02:08:44: Dungeon loaded 10
+03/31/2023 02:08:44: Dungeon load time 42,5323 ms
+03/31/2023 02:08:46: Loading dungeon
+03/31/2023 02:08:46: Dungeon loaded 15
+03/31/2023 02:08:46: Dungeon load time 61,0687 ms
+03/31/2023 02:09:28: Spawned Deer x 1
+03/31/2023 02:09:28: Spawned Boar x 1
+03/31/2023 02:09:28: Placed locations in zone -5,7  duration 0,7476 ms
+03/31/2023 02:09:28: Loading dungeon
+03/31/2023 02:09:28: Dungeon loaded 0
+03/31/2023 02:09:28: Dungeon load time 0 ms
+03/31/2023 02:09:28: Generating DG_MeadowsFarm(Clone), Seed: 1075437641, Bounds diff: (-32,0, -32,0, -32,0) / (32,0, 32,0, 32,0)
+03/31/2023 02:09:28: Available rooms:13
+03/31/2023 02:09:28: To place:30
+03/31/2023 02:09:28: Placed 8 rooms
+03/31/2023 02:09:28: Dungeon generated with seed 1075437641 and hash -82669615
+03/31/2023 02:09:28: Placed locations in zone -4,7  duration 100,8071 ms
+03/31/2023 02:09:28: Placed locations in zone -3,7  duration 0 ms
+03/31/2023 02:09:29: Loading dungeon
+03/31/2023 02:09:29: Dungeon loaded 34
+03/31/2023 02:09:29: Dungeon load time 19,4415 ms
+03/31/2023 02:09:36: Update PlayFab entity token
