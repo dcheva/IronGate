@@ -960,3 +960,38 @@ saving finished
 03/31/2023 00:53:54: Placed wood_floor
 03/31/2023 00:54:12: Has no creator
 03/31/2023 00:54:18: Stopped music home at 5592110
+03/31/2023 00:55:09: Queue unlock msg:$msg_newstation_level:$piece_workbench $msg_level 2
+03/31/2023 00:55:09: Queue unlock msg:$msg_newrecipe:$item_chest_leather
+03/31/2023 00:55:09: Queue unlock msg:$msg_newrecipe:$item_legs_leather
+03/31/2023 00:55:09: Queue unlock msg:$msg_newrecipe:$item_arrow_fire
+03/31/2023 00:55:09: Queue unlock msg:$msg_newrecipe:$item_arrow_flint
+03/31/2023 00:55:09: Queue unlock msg:$msg_newrecipe:$item_helmet_leather
+03/31/2023 00:55:50: Spawned Greyling x 1
+03/31/2023 00:56:04: Placed wood_pole2
+03/31/2023 00:56:07: Placed wood_pole2
+03/31/2023 00:56:08: Placed wood_pole2
+03/31/2023 00:56:12: Placed wood_pole2
+03/31/2023 00:56:13: Skipping unloading unused assets
+03/31/2023 00:56:35: Placed wood_beam
+03/31/2023 00:56:37: Placed wood_beam
+03/31/2023 00:56:45: Placed wood_roof_top_45
+03/31/2023 00:56:53: Placed wood_roof_45
+03/31/2023 00:56:57: Placed wood_roof_45
+03/31/2023 00:57:08: Placed wood_roof_45
+03/31/2023 00:57:17: Placed wood_roof_45
+03/31/2023 00:57:20: Placed wood_roof_45
+03/31/2023 00:57:26: Placed wood_roof_top_45
+03/31/2023 00:57:33: Placed wood_roof_top_45
+03/31/2023 00:57:33: Update PlayFab entity token
+03/31/2023 00:57:38: Placed wood_roof_45
+03/31/2023 00:57:42: Placed wood_roof_45
+03/31/2023 00:58:00: Placed wood_roof_ocorner_45
+03/31/2023 00:58:19: Placed wood_pole2
+03/31/2023 00:58:22: Placed wood_pole2
+03/31/2023 00:58:40: Placed wood_pole2
+03/31/2023 00:58:44: Starting music morning
+03/31/2023 00:59:10: Placed wood_beam_26
+03/31/2023 00:59:18: Starting music meadows
+03/31/2023 00:59:20: Setting selected recipe 3
+03/31/2023 00:59:20: UI Group status changed root = True
+03/31/2023 00:59:20: UI Group status changed Player = True
