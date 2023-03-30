@@ -613,3 +613,56 @@ Total: 527.097300 ms (FindLiveObjects: 103.475300 ms CreateObjectMapping: 35.221
 03/31/2023 00:17:43: Loading dungeon
 03/31/2023 00:17:43: Dungeon loaded 28
 03/31/2023 00:17:43: Dungeon load time 13,2267 ms
+03/31/2023 00:17:56: Grave should fit in inventory, loot all
+03/31/2023 00:17:56: Player 3343654 wants to takeall from Player_tombstone(Clone)   im: 3343654
+03/31/2023 00:18:19: Spawned Greyling x 1
+03/31/2023 00:18:23: Setting selected recipe 3
+03/31/2023 00:18:23: UI Group status changed root = True
+03/31/2023 00:18:23: UI Group status changed Player = True
+03/31/2023 00:18:26: Drop item $item_axe_stone
+03/31/2023 00:18:26: drop all 1  1
+03/31/2023 00:18:26: Setting selected recipe 3
+03/31/2023 00:18:34: Setting selected recipe 3
+03/31/2023 00:18:34: UI Group status changed root = True
+03/31/2023 00:18:34: UI Group status changed Player = True
+03/31/2023 00:18:37: Setting selected recipe 3
+03/31/2023 00:18:41: Setting selected recipe 3
+03/31/2023 00:18:42: Setting selected recipe 3
+03/31/2023 00:18:48: UI Group status changed MenuRoot = True
+03/31/2023 00:18:49: Uncompressed size 8388735
+03/31/2023 00:18:49: Compressed size 8542
+saving started
+03/31/2023 00:18:49: Cloud Save: 12212 bytes. /characters/dee.fch.new
+03/31/2023 00:18:49: Steam writing file chunks 1 / 1, (12212 bytes)
+03/31/2023 00:18:49: Steam Cloud Move: 10263 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 00:18:49: Steam writing file chunks 1 / 1, (10263 bytes)
+03/31/2023 00:18:49: Steam Cloud Move: 12212 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 00:18:49: Steam writing file chunks 1 / 1, (12212 bytes)
+03/31/2023 00:18:49: Considering autobackup. World time: 1392,7, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 00:18:49: Creating second autobackup for reference
+03/31/2023 00:18:49: Saving backup at: \characters\dee_backup_auto-20230331001849.fch
+03/31/2023 00:18:49: Cloud Copy: 12212 bytes. /characters/dee.fch -> \characters\dee_backup_auto-20230331001849.fch
+03/31/2023 00:18:49: Steam writing file chunks 1 / 1, (12212 bytes)
+saving finished
+03/31/2023 00:18:49: clone 64
+03/31/2023 00:18:49: World save writing starting
+03/31/2023 00:18:49: World save writing started
+03/31/2023 00:18:50: Saved 40460 zdos
+03/31/2023 00:18:50: World save writing finishing
+03/31/2023 00:18:50: Cloud Save: 4861247 bytes. /worlds/Covan.db
+03/31/2023 00:18:50: Steam writing file chunks 1 / 1, (4861247 bytes)
+03/31/2023 00:18:50: World save writing finished
+03/31/2023 00:18:50: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 00:18:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:18:50: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 00:18:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:18:50: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 00:18:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:18:50: Considering autobackup. World time: 1392,7, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 00:18:50: Creating second autobackup for reference
+03/31/2023 00:18:50: Saving backup at: \worlds\Covan_backup_auto-20230331001849.fwl
+03/31/2023 00:18:50: Cloud Copy: 39 bytes. /worlds/Covan.fwl -> \worlds\Covan_backup_auto-20230331001849.fwl
+03/31/2023 00:18:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:18:50: World saved ( 246,7296ms )
+03/31/2023 00:18:50: Considering autobackup. World time: 1392,7, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 00:18:50: No autobackup needed yet...
