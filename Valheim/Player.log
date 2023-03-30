@@ -735,3 +735,18 @@ saving finished
 03/31/2023 00:28:44: Starting music morning
 03/31/2023 00:28:56: Placed wood_pole2
 03/31/2023 00:29:17: Starting music meadows
+03/31/2023 00:29:24: Disabling PlayerBase  character_trigger
+03/31/2023 00:29:26: Disabling collider_block  blocker
+03/31/2023 00:29:32: Disabling collider_block  blocker
+03/31/2023 00:29:45: Disabling PlayerBase  character_trigger
+03/31/2023 00:30:34: Spawned Greyling x 1
+03/31/2023 00:31:43: Disabling PlayerBase  character_trigger
+03/31/2023 00:31:51: Placed bed
+03/31/2023 00:31:51: Disabling PlayerBase  character_trigger
+03/31/2023 00:32:06: Placed piece_chest_wood
+03/31/2023 00:32:09: Placed piece_chest_wood
+03/31/2023 00:32:56: Setting selected recipe 3
+03/31/2023 00:32:56: UI Group status changed root = True
+03/31/2023 00:32:56: UI Group status changed Player = True
+03/31/2023 00:34:10: Placed piece_chest_wood
+03/31/2023 00:34:22: Disabling PlayerBase  character_trigger
