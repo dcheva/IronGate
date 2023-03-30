@@ -544,3 +544,25 @@ saving finished
 03/31/2023 00:07:01: Placed wood_floor
 03/31/2023 00:07:06: Placed wood_floor
 03/31/2023 00:07:40: Queue unlock msg:$msg_newitem:$item_necktailgrilled
+03/31/2023 00:07:48: Setting selected recipe 3
+03/31/2023 00:07:48: UI Group status changed root = True
+03/31/2023 00:07:48: UI Group status changed Player = True
+03/31/2023 00:08:07: Queue unlock msg:$msg_newitem:$item_deer_meat_cooked
+03/31/2023 00:08:46: Placed wood_floor
+03/31/2023 00:08:51: Placed wood_floor
+03/31/2023 00:09:01: Placed wood_floor
+03/31/2023 00:09:20: Placed wood_floor
+03/31/2023 00:09:24: Placed wood_floor
+03/31/2023 00:09:33: Placed wood_floor
+03/31/2023 00:09:49: Placed wood_pole2
+03/31/2023 00:10:05: Placed wood_pole2
+03/31/2023 00:10:15: Placed wood_pole2
+03/31/2023 00:10:19: Placed wood_pole2
+03/31/2023 00:10:43: Placed wood_pole2
+03/31/2023 00:11:09: Placed wood_pole2
+03/31/2023 00:11:13: Placed wood_pole2
+03/31/2023 00:11:36: Disabling collider_block  blocker
+03/31/2023 00:11:37: Disabling PlayerBase  character_trigger
+03/31/2023 00:12:03: Placed piece_workbench
+03/31/2023 00:12:03: Disabling PlayerBase  character_trigger
+03/31/2023 00:12:07: Disabling PlayerBase  character_trigger
