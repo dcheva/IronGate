@@ -1040,3 +1040,99 @@ saving finished
 03/31/2023 01:13:13: Placed wood_stack
 03/31/2023 01:13:46: Placed wood_stack
 03/31/2023 01:14:02: Spawned Neck x 2
+03/31/2023 01:14:45: Setting selected recipe 2
+03/31/2023 01:14:45: UI Group status changed root = True
+03/31/2023 01:14:45: UI Group status changed Player = True
+03/31/2023 01:14:48: Drop item $item_stone
+03/31/2023 01:14:48: drop all 49  49
+03/31/2023 01:14:48: Setting selected recipe 3
+03/31/2023 01:14:54: Placed wood_stack
+03/31/2023 01:15:05: Update PlayFab entity token
+03/31/2023 01:15:06: Spawned Neck x 3
+03/31/2023 01:15:16: Setting selected recipe 2
+03/31/2023 01:15:16: UI Group status changed root = True
+03/31/2023 01:15:16: UI Group status changed Player = True
+03/31/2023 01:15:19: Drop item $item_hammer
+03/31/2023 01:15:19: drop all 1  1
+03/31/2023 01:15:19: Setting selected recipe 2
+03/31/2023 01:15:20: Drop item $item_hammer
+03/31/2023 01:15:20: drop all 1  1
+03/31/2023 01:15:20: Setting selected recipe 2
+03/31/2023 01:15:21: Drop item $item_axe_stone
+03/31/2023 01:15:21: drop all 1  1
+03/31/2023 01:15:21: Setting selected recipe 2
+03/31/2023 01:15:25: Setting selected recipe 2
+03/31/2023 01:15:25: UI Group status changed root = True
+03/31/2023 01:15:25: UI Group status changed Player = True
+03/31/2023 01:15:27: Drop item $item_stone
+03/31/2023 01:15:27: drop all 49  49
+03/31/2023 01:15:27: Setting selected recipe 3
+03/31/2023 01:15:37: Placed wood_stack
+03/31/2023 01:15:42: Setting selected recipe 3
+03/31/2023 01:15:42: UI Group status changed root = True
+03/31/2023 01:15:42: UI Group status changed Player = True
+03/31/2023 01:16:25: Setting selected recipe 2
+03/31/2023 01:16:25: UI Group status changed root = True
+03/31/2023 01:16:25: UI Group status changed Player = True
+03/31/2023 01:16:29: Drop item $item_hammer
+03/31/2023 01:16:29: drop all 1  1
+03/31/2023 01:16:29: Setting selected recipe 2
+03/31/2023 01:16:30: Drop item $item_axe_stone
+03/31/2023 01:16:30: drop all 1  1
+03/31/2023 01:16:30: Setting selected recipe 2
+03/31/2023 01:16:31: Drop item $item_hammer
+03/31/2023 01:16:31: drop all 1  1
+03/31/2023 01:16:31: Setting selected recipe 2
+03/31/2023 01:16:35: Setting selected recipe 2
+03/31/2023 01:16:37: Item is not in this container
+03/31/2023 01:16:37: Setting selected recipe 2
+03/31/2023 01:16:49: Setting selected recipe 2
+03/31/2023 01:16:50: Setting selected recipe 2
+03/31/2023 01:16:51: Setting selected recipe 2
+03/31/2023 01:16:55: Setting selected recipe 2
+03/31/2023 01:17:23: Valid True
+03/31/2023 01:17:23: On death False
+03/31/2023 01:17:26: Queue unlock msg:$msg_newtrophy:$item_trophy_boar
+03/31/2023 01:17:37: Spawned Deer x 2
+03/31/2023 01:17:37: Spawned Boar x 1
+03/31/2023 01:17:37: Spawned Neck x 2
+03/31/2023 01:17:37: Spawned Greyling x 1
+03/31/2023 01:17:43: UI Group status changed MenuRoot = True
+03/31/2023 01:17:45: Uncompressed size 8388735
+03/31/2023 01:17:45: Compressed size 8551
+saving started
+03/31/2023 01:17:45: Cloud Save: 12322 bytes. /characters/dee.fch.new
+03/31/2023 01:17:45: Steam writing file chunks 1 / 1, (12322 bytes)
+03/31/2023 01:17:45: Steam Cloud Move: 11764 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 01:17:45: Steam writing file chunks 1 / 1, (11764 bytes)
+03/31/2023 01:17:45: Steam Cloud Move: 12322 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 01:17:45: Steam writing file chunks 1 / 1, (12322 bytes)
+03/31/2023 01:17:45: Considering autobackup. World time: 4889,8, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 01:17:45: No autobackup needed yet...
+saving finished
+03/31/2023 01:17:45: clone 28
+03/31/2023 01:17:45: World save writing starting
+03/31/2023 01:17:45: World save writing started
+03/31/2023 01:17:45: Saved 40379 zdos
+03/31/2023 01:17:45: World save writing finishing
+03/31/2023 01:17:45: Cloud Save: 4948715 bytes. /worlds/Covan.db
+03/31/2023 01:17:45: Steam writing file chunks 1 / 1, (4948715 bytes)
+03/31/2023 01:17:46: World save writing finished
+03/31/2023 01:17:46: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 01:17:46: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 01:17:46: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 01:17:46: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 01:17:46: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 01:17:46: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 01:17:46: Considering autobackup. World time: 4889,8, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 01:17:46: No autobackup needed yet...
+03/31/2023 01:17:46: World saved ( 301,0286ms )
+03/31/2023 01:17:46: Considering autobackup. World time: 4889,8, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 01:17:46: No autobackup needed yet...
+03/31/2023 01:17:47: Found selected Continue
+03/31/2023 01:17:49: Spawned Seagal x 1
+03/31/2023 01:18:47: Setting selected recipe 2
+03/31/2023 01:18:47: UI Group status changed root = True
+03/31/2023 01:18:47: UI Group status changed Player = True
+03/31/2023 01:18:53: Spawned Neck x 1
+03/31/2023 01:19:46: Starting music evening
