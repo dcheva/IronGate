@@ -1622,3 +1622,47 @@ saving finished
 03/31/2023 02:09:29: Dungeon loaded 34
 03/31/2023 02:09:29: Dungeon load time 19,4415 ms
 03/31/2023 02:09:36: Update PlayFab entity token
+03/31/2023 02:10:10: Placed locations in zone -4,8  duration 5,227 ms
+03/31/2023 02:10:11: Loading dungeon
+03/31/2023 02:10:11: Dungeon loaded 33
+03/31/2023 02:10:11: Dungeon load time 17,9202 ms
+03/31/2023 02:10:13: Spawned Deer x 1
+03/31/2023 02:10:13: Spawned Greydwarf x 3
+03/31/2023 02:10:13: Spawned Greyling x 1
+03/31/2023 02:10:37: Valid True
+03/31/2023 02:10:37: On death False
+03/31/2023 02:10:42: Setting selected recipe 0
+03/31/2023 02:10:42: UI Group status changed root = True
+03/31/2023 02:10:42: UI Group status changed Player = True
+03/31/2023 02:11:14: Stopped music meadows at 7832296
+03/31/2023 02:11:14: Starting music meadows
+03/31/2023 02:11:14: Resumed music meadows at 7832296
+03/31/2023 02:11:24: Valid True
+03/31/2023 02:11:24: On death False
+03/31/2023 02:11:52: Spawned Neck x 2
+03/31/2023 02:12:26: Loading dungeon
+03/31/2023 02:12:26: Dungeon loaded 15
+03/31/2023 02:12:26: Dungeon load time 60,4795 ms
+03/31/2023 02:12:40: Setting selected recipe 0
+03/31/2023 02:12:40: UI Group status changed root = True
+03/31/2023 02:12:40: UI Group status changed Player = True
+03/31/2023 02:12:53: Loading dungeon
+03/31/2023 02:12:53: Dungeon loaded 10
+03/31/2023 02:12:53: Dungeon load time 35,0642 ms
+03/31/2023 02:12:54: Loading dungeon
+03/31/2023 02:12:54: Dungeon loaded 15
+03/31/2023 02:12:54: Dungeon load time 61,2538 ms
+03/31/2023 02:13:24: Force generaeting hmap (-448.0, 0.0, -128.0)
+03/31/2023 02:13:25: Spawned Neck x 1
+03/31/2023 02:13:27: Setting selected recipe 0
+03/31/2023 02:13:27: UI Group status changed root = True
+03/31/2023 02:13:27: UI Group status changed Player = True
+03/31/2023 02:13:39: Loading dungeon
+03/31/2023 02:13:39: Dungeon loaded 28
+03/31/2023 02:13:39: Dungeon load time 13,4371 ms
+03/31/2023 02:13:51: Is mine
+03/31/2023 02:13:51: is current spawnpoint
+03/31/2023 02:14:42: Disabling PlayerBase  character_trigger
+03/31/2023 02:14:49: Setting selected recipe 0
+03/31/2023 02:14:49: UI Group status changed root = True
+03/31/2023 02:14:49: UI Group status changed Player = True
