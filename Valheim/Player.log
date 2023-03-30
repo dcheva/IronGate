@@ -850,3 +850,59 @@ saving finished
 03/31/2023 00:43:53: Placed wood_wall_half
 03/31/2023 00:44:23: Placed wood_wall_half
 03/31/2023 00:44:26: Placed wood_wall_half
+03/31/2023 00:44:53: Placed wood_pole
+03/31/2023 00:45:46: Spawned Greyling x 1
+03/31/2023 00:46:00: Has no creator
+03/31/2023 00:46:05: Possible events:1
+03/31/2023 00:46:05: Random event set:army_eikthyr
+03/31/2023 00:46:05: Starting music CombatEventL1
+03/31/2023 00:46:06: Spawned Neck x 1
+03/31/2023 00:46:06: Spawned Neck x 1
+03/31/2023 00:46:06: Spawned Boar x 1
+03/31/2023 00:46:06: Spawned Boar x 1
+03/31/2023 00:46:09: Stopped music meadows at 5767381
+03/31/2023 00:46:54: Spawned Neck x 1
+03/31/2023 00:47:40: Stopped music CombatEventL1 at 110229
+03/31/2023 00:47:40: Starting music meadows
+03/31/2023 00:47:40: Resumed music meadows at 5767381
+03/31/2023 00:48:18: Placed wood_roof
+03/31/2023 00:48:43: Placed wood_beam_1
+03/31/2023 00:48:50: Uncompressed size 8388735
+03/31/2023 00:48:50: Compressed size 8539
+saving started
+03/31/2023 00:48:50: Cloud Save: 11764 bytes. /characters/dee.fch.new
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (11764 bytes)
+03/31/2023 00:48:50: Steam Cloud Move: 12212 bytes. /characters/dee.fch -> /characters/dee.fch.old
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (12212 bytes)
+03/31/2023 00:48:50: Steam Cloud Move: 11764 bytes. /characters/dee.fch.new -> /characters/dee.fch
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (11764 bytes)
+03/31/2023 00:48:50: Considering autobackup. World time: 3156,54, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 00:48:50: No autobackup needed yet...
+saving finished
+03/31/2023 00:48:50: clone 62
+03/31/2023 00:48:50: World save writing starting
+03/31/2023 00:48:50: World save writing started
+03/31/2023 00:48:50: Saved 40474 zdos
+03/31/2023 00:48:50: World save writing finishing
+03/31/2023 00:48:50: Cloud Save: 4909796 bytes. /worlds/Covan.db
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (4909796 bytes)
+03/31/2023 00:48:50: World save writing finished
+03/31/2023 00:48:50: Cloud Save: 39 bytes. /worlds/Covan.fwl.new
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:48:50: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl -> /worlds/Covan.fwl.old
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:48:50: Steam Cloud Move: 39 bytes. /worlds/Covan.fwl.new -> /worlds/Covan.fwl
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (39 bytes)
+03/31/2023 00:48:50: Considering autobackup. World time: 3156,92, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 00:48:50: No autobackup needed yet...
+03/31/2023 00:48:50: World saved ( 206,0394ms )
+03/31/2023 00:48:50: Considering autobackup. World time: 3156,92, short time: 7200, long time: 43200, backup count: 10
+03/31/2023 00:48:50: Creating second autobackup for reference
+03/31/2023 00:48:50: Saving backup at: \worlds\Covan_backup_auto-20230331004850.db
+03/31/2023 00:48:50: Cloud Copy: 4909796 bytes. /worlds/Covan.db -> \worlds\Covan_backup_auto-20230331004850.db
+03/31/2023 00:48:50: Steam writing file chunks 1 / 1, (4909796 bytes)
+03/31/2023 00:48:51: World auto backup saved ( 00:00:00.0843801ms )
+03/31/2023 00:48:52: Placed wood_beam_1
+03/31/2023 00:49:00: Placed wood_beam_1
+03/31/2023 00:49:19: Placed wood_beam_1
+03/31/2023 00:49:31: Placed wood_pole
